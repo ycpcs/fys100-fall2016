@@ -15,37 +15,37 @@ In the readings, *LP* is the textbook (Learning Processing).  For other readings
 
 Date | Topic | Assignment/Activity | Agenda | Reading
 ---- | ----- | ------------------- | -------| -------
-Aug 30 | &mdash; | &mdash; | [Day 1](agenda/day01.html) | &mdash;
-Sep 1 | &mdash; | &mdash; | [Day 2](agenda/day02.html) | &mdash;
-Sep 6 | &mdash; | &mdash; | [Day 3](agenda/day03.html) | &mdash;
-Sep 8 | &mdash; | &mdash; | [Day 4](agenda/day04.html) | &mdash;
-Sep 13 | &mdash; | &mdash; | [Day 5](agenda/day05.html) | &mdash;
-Sep 15 | &mdash; | &mdash; | [Day 6](agenda/day06.html) | &mdash;
-Sep 20 | &mdash; | &mdash; | [Day 7](agenda/day07.html) | &mdash;
-Sep 22 | &mdash; | &mdash; | [Day 8](agenda/day08.html) | &mdash;
-Sep 27 | &mdash; | &mdash; | [Day 9](agenda/day09.html) | &mdash;
-Sep 29 | &mdash; | &mdash; | [Day 10](agenda/day10.html) | &mdash;
-Oct 4 | &mdash; | &mdash; | [Day 11](agenda/day11.html) | &mdash;
-Oct 6 | &mdash; | &mdash; | [Day 12](agenda/day12.html) | &mdash;
-Oct 11 | &mdash; | &mdash; | [Day 13](agenda/day13.html) | &mdash;
-Oct 13 | &mdash; | &mdash; | [Day 14](agenda/day14.html) | &mdash;
+Aug 30 | First day | &mdash; | [Day 1](agenda/day01.html) | &mdash;
+Sep 1 | Expectations for college | &mdash; | [Day 2](agenda/day02.html) | &mdash;
+Sep 6 | Visual art | &mdash; | [Day 3](agenda/day03.html) | &mdash;
+Sep 8 | Visual art | &mdash; | [Day 4](agenda/day04.html) | &mdash;
+Sep 13 | Visual art | &mdash; | [Day 5](agenda/day05.html) | &mdash;
+Sep 15 | Visual art | &mdash; | [Day 6](agenda/day06.html) | &mdash;
+Sep 20 | Visual art | &mdash; | [Day 7](agenda/day07.html) | &mdash;
+Sep 22 | Music | &mdash; | [Day 8](agenda/day08.html) | &mdash;
+Sep 27 | Music | &mdash; | [Day 9](agenda/day09.html) | &mdash;
+Sep 29 | Music | &mdash; | [Day 10](agenda/day10.html) | &mdash;
+Oct 4 | Music | &mdash; | [Day 11](agenda/day11.html) | &mdash;
+Oct 6 | Music | &mdash; | [Day 12](agenda/day12.html) | &mdash;
+Oct 11 | Humanities | &mdash; | [Day 13](agenda/day13.html) | &mdash;
+Oct 13 | Humanities | &mdash; | [Day 14](agenda/day14.html) | &mdash;
 Oct 18 | *Fall break, no class*
-Oct 20 | &mdash; | &mdash; | [Day 15](agenda/day15.html) | &mdash;
-Oct 25 | &mdash; | &mdash; | [Day 16](agenda/day16.html) | &mdash;
-Oct 27 | &mdash; | &mdash; | [Day 17](agenda/day17.html) | &mdash;
-Nov 1 | &mdash; | &mdash; | [Day 18](agenda/day18.html) | &mdash;
-Nov 3 | &mdash; | &mdash; | [Day 19](agenda/day19.html) | &mdash;
-Nov 8 | &mdash; | &mdash; | [Day 20](agenda/day20.html) | &mdash;
-Nov 10 | &mdash; | &mdash; | [Day 21](agenda/day21.html) | &mdash;
-Nov 15 | &mdash; | &mdash; | [Day 22](agenda/day22.html) | &mdash;
-Nov 17 | &mdash; | &mdash; | [Day 23](agenda/day23.html) | &mdash;
-Nov 22 | &mdash; | &mdash; | [Day 24](agenda/day24.html) | &mdash;
-Nov 24 | *Thanksgiving vacation, no class*
-Nov 29 | &mdash; | &mdash; | [Day 25](agenda/day25.html) | &mdash;
-Dec 1 | &mdash; | &mdash; | [Day 25](agenda/day25.html) | &mdash;
-Dec 6 | &mdash; | &mdash; | [Day 26](agenda/day26.html) | &mdash;
-Dec 8 | &mdash; | &mdash; | [Day 27](agenda/day27.html) | &mdash;
-Dec 13 | &mdash; | &mdash; | [Day 28](agenda/day28.html) | &mdash;
+Oct 20 | Humanities | &mdash; | [Day 15](agenda/day15.html) | &mdash;
+Oct 25 | Humanities | &mdash; | [Day 16](agenda/day16.html) | &mdash;
+Oct 27 | Science | &mdash; | [Day 17](agenda/day17.html) | &mdash;
+Nov 1 | Science | &mdash; | [Day 18](agenda/day18.html) | &mdash;
+Nov 3 | Science | &mdash; | [Day 19](agenda/day19.html) | &mdash;
+Nov 8 | Science | &mdash; | [Day 20](agenda/day20.html) | &mdash;
+Nov 10 | Science | &mdash; | [Day 21](agenda/day21.html) | &mdash;
+Nov 15 | Physical computing | &mdash; | [Day 22](agenda/day22.html) | &mdash;
+Nov 17 | Gen ed | &mdash; | [Day 23](agenda/day23.html) | &mdash;
+Nov 22 | Physical computing | &mdash; | [Day 24](agenda/day24.html) | &mdash;
+Nov 24 | *Thanksgiving, no class*
+Nov 29 | Physical computing | &mdash; | [Day 25](agenda/day25.html) | &mdash;
+Dec 1 | Physical computing | &mdash; | [Day 25](agenda/day25.html) | &mdash;
+Dec 6 | Physical computing | &mdash; | [Day 26](agenda/day26.html) | &mdash;
+Dec 8 | Project demos | &mdash; | [Day 27](agenda/day27.html) | &mdash;
+Dec 13 | Project demos | &mdash; | [Day 28](agenda/day28.html) | &mdash;
 
 Readings/Videos/Media:
 
