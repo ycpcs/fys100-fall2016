@@ -20,7 +20,7 @@ Sep 1 | Expectations for college | &mdash; | [Day 2](agenda/day02.html) | [NYTEd
 Sep 6 | Visual art: Drawing with Processing | [Lab 1](labs/lab01.html) | [Day 3](agenda/day03.html) | (Start [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127))<br> LP, Introduction, Chapters 1&ndash;2
 Sep 8 | Visual art: Repetition | [Lab 2](labs/lab02.html) | [Day 4](agenda/day04.html) | &mdash;
 Sep 13 | Visual art: Animation | [Lab 3](labs/lab03.html) | [Day 5](agenda/day05.html) | &mdash;
-Sep 15 | Visual art | &mdash; | [Day 6](agenda/day06.html) | &mdash;
+Sep 15 | Visual art | [Lab 4](labs/lab04.html) | [Day 6](agenda/day06.html) | &mdash;
 Sep 20 | Visual art | &mdash; | [Day 7](agenda/day07.html) | &mdash;
 Sep 22 | Music | &mdash; | [Day 8](agenda/day08.html) | &mdash;
 Sep 27 | Music | &mdash; | [Day 9](agenda/day09.html) | &mdash;
