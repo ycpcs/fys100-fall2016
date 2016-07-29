@@ -18,6 +18,8 @@ Finally, we will be talking about the expectations for the seminar.  Here are so
 
 ## Get ready
 
+<img class="parimg" alt="Get ready" src="img/getready.png"> 
+
 In your shared Google Drive folder, create a document called **CollegeExpectations**.
 
 In this document, briefly write down answers to the following questions:
