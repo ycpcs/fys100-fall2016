@@ -17,8 +17,8 @@ Date | Topic | Assignment/Activity | Agenda | Reading
 ---- | ----- | ------------------- | -------| -------
 Aug 30 | First day | &mdash; | [Day 1](agenda/day01.html) | &mdash;
 Sep 1 | Expectations for college | &mdash; | [Day 2](agenda/day02.html) | [NYTEd30Jul15](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), [Lahey15](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/)
-Sep 6 | Visual art | &mdash; | [Day 3](agenda/day03.html) | &mdash;
-Sep 8 | Visual art | &mdash; | [Day 4](agenda/day04.html) | &mdash;
+Sep 6 | Visual art: Drawing with Processing | [Lab 1](labs/lab01.html) | [Day 3](agenda/day03.html) | (Start [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127))<br> LP, Introduction, Chapters 1&ndash;2
+Sep 8 | Visual art: Repetition | [Lab 2](labs/lab02.html) | [Day 4](agenda/day04.html) | &mdash;
 Sep 13 | Visual art | &mdash; | [Day 5](agenda/day05.html) | &mdash;
 Sep 15 | Visual art | &mdash; | [Day 6](agenda/day06.html) | &mdash;
 Sep 20 | Visual art | &mdash; | [Day 7](agenda/day07.html) | &mdash;
@@ -51,11 +51,9 @@ Readings/Videos/Media:
 
 * NYTEd30Jul15: [Advice for New Students From Those Who Know (Older Students)](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), New York Times, July 30th, 2015
 * Lahey15: Jessica Lahey, [When Success Leads to Failure](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/), The Atlantic, August 11th, 2015
+* Noll67: A. Michael Noll, [The digital computer as a creative medium](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127), IEEE Spectrum, Volume 4, Issue 10, Oct 1967 (Note that you will need to download this article from campus)
 
 <!--
-* NYTEd30Jul15: [Advice for New Students From Those Who Know (Older Students)](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), New York Times, July 30th, 2015
-* Lahey15: Jessica Lahey, [When Success Leads to Failure](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/), The Atlantic, August 11th, 2015
-* Noll67: A. Michael Noll, [The digital computer as a creative medium](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127), IEEE Spectrum, Volume 4, Issue 10, Oct 1967 (Note that you will need to download this article from campus)
 * ShiffmanNOCCh8: Daniel Shiffman, [The Nature of Code, Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
 * IAMUSDocumentary: [IAMUS / MELOMICS documentary](https://www.youtube.com/watch?v=ETGDbWvWCbM)
 * Guardian1Jul12: [Iamus, classical music's computer composer, live from Malaga](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), Philip Ball, in The Guardian, July 1st, 2012
