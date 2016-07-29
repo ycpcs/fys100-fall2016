@@ -15,8 +15,8 @@ In the readings, *LP* is the textbook (Learning Processing).  For other readings
 
 Date | Topic | Assignment/Activity | Agenda | Reading
 ---- | ----- | ------------------- | -------| -------
-Aug 30 | First day | &mdash; | [Day 1](agenda/day01.html) | &mdash;
-Sep 1 | Expectations for college | &mdash; | [Day 2](agenda/day02.html) | [NYTEd30Jul15](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), [Lahey15](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/)
+Aug 30 | First day | Discussion | [Day 1](agenda/day01.html) | &mdash;
+Sep 1 | Expectations for college | Discussion | [Day 2](agenda/day02.html) | [NYTEd30Jul15](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), [Lahey15](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/)
 Sep 6 | Visual art: Drawing with Processing | [Lab 1](labs/lab01.html) | [Day 3](agenda/day03.html) | (Start [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127))<br> LP, Introduction, Chapters 1&ndash;2
 Sep 8 | Visual art: Repetition | [Lab 2](labs/lab02.html) | [Day 4](agenda/day04.html) | &mdash;
 Sep 13 | Visual art: Animation | [Lab 3](labs/lab03.html) | [Day 5](agenda/day05.html) | &mdash;
