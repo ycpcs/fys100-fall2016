@@ -181,3 +181,7 @@ dt {
 .clear {
 	clear: both;
 }
+
+.sourceref {
+	font-size: 80%;
+}
