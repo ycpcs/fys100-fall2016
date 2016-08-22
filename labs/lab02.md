@@ -73,7 +73,7 @@ Let's break this down.
 
 In the first use of `ellipse`, which draws the large circle, we specify the center x- and y-coordinates as exactly `simleyX` and `smileyY`.  This makes sense: the circle's center is exactly at the reference point.
 
-In the second use of `ellipse`, which draws the left eye, we want the center x-coordinate to be to the left (less than) of the reference point, and the center y-coordinate to be above (less than) the reference coordinate.  The original center was at (160, 270): the x-coordinate is 40 units less than the big circle's original center x-coordinate (200), and the y-coordinate is 30 units less than the big circle's original center y-coordinate (300).  So, the center x- and y-coordinates of the left eye become `smileyX-40` and `smileyY-30`, respectively.  (Just as `+` means "add" in Processing, `-` means "subtract.")
+In the second use of `ellipse`, which draws the left eye, we want the center x-coordinate to be to the left of (less than) the reference point, and the center y-coordinate to be above (less than) the reference coordinate.  The original center was at (160, 270): the x-coordinate is 40 units less than the big circle's original center x-coordinate (200), and the y-coordinate is 30 units less than the big circle's original center y-coordinate (300).  So, the center x- and y-coordinates of the left eye become `smileyX-40` and `smileyY-30`, respectively.  (Just as `+` means "add" in Processing, `-` means "subtract.")
 
 "That's great," you say, "but what the heck are `smileyX` and `smileyY`?  Are they real things?"  Heck yeah, they are!  Processing allows us to define *variables*: these are named storage locations where we can store information such as reference point coordinates.  All we need to do is define variables called `smileyX` and `smileyY`, and set them to the specific coordinates we want to use as the reference point.  Here's the whole shebang:
 
@@ -123,7 +123,9 @@ void drawSmiley(int smileyX, int smileyY) {
 }
 {% endhighlight %}
 
-You can copy this into your sketch at the bottom of the file, after the closing curly brace ("`}`") of the `draw` function.  Now, change the `draw` function so that it looks exactly like this:
+You can copy this into your sketch at the bottom of the file, after the closing curly brace ("`}`") of the `draw` function.  Note that the code inside the body of the function (between the curly braces, "`{`" and "`}`") is *exactly the same* as the earlier code we used to draw the smiley face relative to a reference point.
+
+Now, change the `draw` function so that it looks exactly like this:
 
 {% highlight java %}
 void draw() {
@@ -135,7 +137,7 @@ void draw() {
 }
 {% endhighlight %}
 
-Run the sketch.  Yes, that's two smiley faces!
+Run the sketch.  Yes, that's two smiley faces!  But what just happened, exactly?  What happened is that the first call to `drawSmiley` specified `200`, `300` as the values of the `smileyX` and `smileyY` parameters, and the second call specified `600`, `300` for those values.
 
 Now try changing the `draw` function to look like this:
 
