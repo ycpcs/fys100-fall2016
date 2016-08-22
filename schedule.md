@@ -3,47 +3,58 @@ layout: default
 title: "Schedule"
 ---
 
-This page lists the schedule topics and readings for the course.  This schedule will be updated throughout the semester: any changes will be announced in class and on the course website.
+This page lists the schedule of topics and readings for the course.  This schedule will be updated throughout the semester: any changes will be announced in class and on the course website.
 
 For class meetings where a reading is listed, make sure you have done the reading *before* you come to class.  Also note that there are suggestions regarding when to start some of the readings.
 
-The agendas for each day will include some notes about the day's topic and activity, and may also include discussion questions.  Please read each agenda before you come to class.  Keep in mind that the agenda may include things you need to do to prepare for the day's activity: these will be indicated with the following graphic:
+The agendas for each day will include some notes about the day's topic and activity, and may also include discussion questions.  Please read each agenda before you come to class.  Keep in mind that the agenda will usually include things you need to do to prepare for the day's activity: these will be indicated with the following "get ready" graphic:
 
 > <a href="https://www.youtube.com/watch?v=J8Ofr0IKiZg"><img src="agenda/img/getready.png" alt="Get ready!"></a>
 
+It is very important that you do all of the "get ready" tasks before you come to class!
+
 In the readings, *LP* is the textbook (Learning Processing).  For other readings, see list below.
+
+Topic color codes:
+
+* <span class="topic-sc"></span> Success curriculum
+* <span class="topic-art"></span> Visual art
+* <span class="topic-mus"></span> Music
+* <span class="topic-hum"></span> Digital humanities
+* <span class="topic-sci"></span> Science
+* <span class="topic-phy"></span> Physical computing
 
 Date | Topic | Assignment/Activity | Agenda | Reading
 ---- | ----- | ------------------- | -------| -------
-Aug 30 | First day | Discussion | [Day 1](agenda/day01.html) | &mdash;
-Sep 1 | Expectations for college | Discussion | [Day 2](agenda/day02.html) | [NYTEd30Jul15](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), [Lahey15](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/)
-Sep 6 | Visual art: Drawing with Processing | [Lab 1](labs/lab01.html) | [Day 3](agenda/day03.html) | (Start [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127))<br> LP, Introduction, Chapters 1&ndash;2
-Sep 8 | Visual art: Repetition | [Lab 2](labs/lab02.html) | [Day 4](agenda/day04.html) | &mdash;
-Sep 13 | Visual art: Animation | [Lab 3](labs/lab03.html) | [Day 5](agenda/day05.html) | &mdash;
-Sep 15 | Visual art: Generative art | [Lab 4](labs/lab04.html) | [Day 6](agenda/day06.html) | LP, Chapters 4&ndash;5<br>[ShiffmanNOCCh8](http://natureofcode.com/book/chapter-8-fractals/)
-Sep 20 | Visual art | &mdash; | [Day 7](agenda/day07.html) | &mdash;
-Sep 22 | Music | &mdash; | [Day 8](agenda/day08.html) | &mdash;
-Sep 27 | Music | &mdash; | [Day 9](agenda/day09.html) | &mdash;
-Sep 29 | Music | &mdash; | [Day 10](agenda/day10.html) | &mdash;
-Oct 4 | Music | &mdash; | [Day 11](agenda/day11.html) | &mdash;
-Oct 6 | Music | &mdash; | [Day 12](agenda/day12.html) | &mdash;
-Oct 11 | Humanities | &mdash; | [Day 13](agenda/day13.html) | &mdash;
-Oct 13 | Humanities | &mdash; | [Day 14](agenda/day14.html) | &mdash;
+Aug 30 | <span class="topic-sc"></span> First day | Discussion | [Day 1](agenda/day01.html) | &mdash;
+Sep 1 | <span class="topic-sc"></span> Expectations for college | Discussion | [Day 2](agenda/day02.html) | [NYTEd30Jul15](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), [Lahey15](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/)
+Sep 6 | <span class="topic-art"></span> Drawing with Processing | [Lab 1](labs/lab01.html) | [Day 3](agenda/day03.html) | (Start [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127))<br> LP, Introduction, Chapters 1&ndash;2
+Sep 8 | <span class="topic-art"></span> Repetition | [Lab 2](labs/lab02.html) | [Day 4](agenda/day04.html) | &mdash;
+Sep 13 | <span class="topic-sc"></span> Being an Engaged Learner | Meet in Weinstock | [Day 5](agenda/day05.html) | &mdash; 
+Sep 15 | <span class="topic-art"></span> Animation | [Lab 3](labs/lab03.html) | [Day 6](agenda/day06.html) | &mdash;
+Sep 20 | <span class="topic-art"></span> Generative art | [Lab 4](labs/lab04.html) | [Day 7](agenda/day07.html) | LP, Chapters 4&ndash;5<br>[ShiffmanNOCCh8](http://natureofcode.com/book/chapter-8-fractals/)
+Sep 22 | <span class="topic-art"></span> [Visual art] | &mdash; | [Day 8](agenda/day08.html) | &mdash;
+Sep 27 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 9](agenda/day09.html) | &mdash;
+Sep 29 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 10](agenda/day10.html) | &mdash;
+Oct 4 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 11](agenda/day11.html) | &mdash;
+Oct 6 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 12](agenda/day12.html) | &mdash;
+Oct 11 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 13](agenda/day13.html) | &mdash;
+Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | &mdash;
 Oct 18 | *Fall break, no class*
-Oct 20 | Humanities | &mdash; | [Day 15](agenda/day15.html) | &mdash;
-Oct 25 | Humanities | &mdash; | [Day 16](agenda/day16.html) | &mdash;
-Oct 27 | Science | &mdash; | [Day 17](agenda/day17.html) | &mdash;
-Nov 1 | Science | &mdash; | [Day 18](agenda/day18.html) | &mdash;
-Nov 3 | Science | &mdash; | [Day 19](agenda/day19.html) | &mdash;
-Nov 8 | Science | &mdash; | [Day 20](agenda/day20.html) | &mdash;
-Nov 10 | Science | &mdash; | [Day 21](agenda/day21.html) | &mdash;
-Nov 15 | Physical computing | &mdash; | [Day 22](agenda/day22.html) | &mdash;
-Nov 17 | Gen ed | &mdash; | [Day 23](agenda/day23.html) | &mdash;
-Nov 22 | Physical computing | &mdash; | [Day 24](agenda/day24.html) | &mdash;
+Oct 20 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 15](agenda/day15.html) | &mdash;
+Oct 25 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 16](agenda/day16.html) | &mdash;
+Oct 27 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 17](agenda/day17.html) | &mdash;
+Nov 1 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 18](agenda/day18.html) | &mdash;
+Nov 3 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 19](agenda/day19.html) | &mdash;
+Nov 8 | <span class="topic-sc"></span> Ready, Set, Registration! | &mdash; | [Day 20](agenda/day20.html) | &mdash;
+Nov 10 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 21](agenda/day21.html) | &mdash;
+Nov 15 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 22](agenda/day22.html) | &mdash;
+Nov 17 | <span class="topic-sc"></span> GenNext | &mdash; | [Day 23](agenda/day23.html) | &mdash;
+Nov 22 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 24](agenda/day24.html) | &mdash;
 Nov 24 | *Thanksgiving, no class*
-Nov 29 | Physical computing | &mdash; | [Day 25](agenda/day25.html) | &mdash;
-Dec 1 | Physical computing | &mdash; | [Day 25](agenda/day25.html) | &mdash;
-Dec 6 | Physical computing | &mdash; | [Day 26](agenda/day26.html) | &mdash;
+Nov 29 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | &mdash;
+Dec 1 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | &mdash;
+Dec 6 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 26](agenda/day26.html) | &mdash;
 Dec 8 | Project demos | &mdash; | [Day 27](agenda/day27.html) | &mdash;
 Dec 13 | Project demos | &mdash; | [Day 28](agenda/day28.html) | &mdash;
 
