@@ -15,7 +15,7 @@ Download the following zip file and save it in your **Downloads** folder: [Repet
 
 Start a file browser window and navigate to your **Downloads** folder.  Right click on **Repetition.zip**.  Choose **Extract All**, then choose `H:\sketchbook` as the destination directory.  *FIXME: verify that this works.*
 
-In Processing, choose **File &rarr; Open**.  In the file chooser dialog, navigate to the **sketchbook** folder in your home directory, the double click on **Repetition**, then choose **Repetition.pde**.  You should now have a Processing window with the source code of the example program.
+In Processing, choose **File &rarr; Open**.  In the file chooser dialog, navigate to the **sketchbook** folder in your home directory, the double click on **Repetition**, then choose **Repetition.pde**.  You should now have a Processing window with the source code of the example sketch.
 
 Click the run button, which looks like this:
 
@@ -27,7 +27,7 @@ When the sketch runs, you should see the following (click for full size):
 
 ## Part 2: Repeated elements
 
-The program is nice and all, but more smiley faces would be better.  How can we add another one?
+This sketch is nice and all, but more smiley faces would be better.  How can we add another one?
 
 Let's say that we want to add another smiley face to the right of the first one.  As we know from [Lab 1](lab01.html), x-coordinates increase as we go to the right.  So, we could just repeat the drawing operations that draw the first face, but increase each x-coordinate by a fixed amount, leaving y-coordinates, width and height, and other drawing values unchanged.
 
@@ -134,6 +134,8 @@ void draw() {
   drawSmiley(600, 300);
 }
 {% endhighlight %}
+
+Run the sketch.  Yes, that's two smiley faces!
 
 Now try changing the `draw` function to look like this:
 
