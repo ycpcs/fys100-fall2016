@@ -160,6 +160,14 @@ Just for reference, here's the complete sketch with the function, just so you ca
 
 ## Part 5: Using a function to draw repeated elements in your sketch
 
-Instructions for opening the sketch started in Lab 1.
+Now, it's time to apply the same technique to your sketch!  (I.e., the one you started in [Lab 1](lab01.html) and are working on as part of [Assignment 2](../assign/assign02.html).)
 
-Goal: create a function to draw a repeated element, use it.
+Find a figure in your sketch that you would like to repeat.  If you have not done so already, use Processing drawing functions to draw one copy of the figure in a fixed location.
+
+Next, change the code to draw the figure so that all of the drawing operations are done relative to a reference point.  Introduce variables to store the x- and y-coordinates of the reference point (just like with did with the smiley face above.)  Make sure the program still works as before.
+
+Next, introduce a function to draw the figure: the reference point variables will become the parameters of this function.  (I.e., make something similar to the `drawSmiley` function, but have it draw your figure.)  Make sure that your sketch's `draw` function has exactly one call to your new function.  Make sure that when you run the sketch it still works correctly.
+
+Now, try using multiple calls to your function to draw multiple copies of the figure in different locations!
+
+Note that we don't necessarily expect you to do all of this in class.  Please continue to work on this outside of class.
