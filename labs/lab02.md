@@ -29,7 +29,7 @@ When the sketch runs, you should see the following (click for full size):
 
 The program is nice and all, but more smiley faces would be better.  How can we add another one?
 
-Let's say that we want to add another smiley face to the right of the first one.  As we know from [Lab 1](lab01.html), x coordinates increase as we go to the right.  So, we could just repeat the drawing operations that draw the first face, but increase each x coordinate by a fixed amount, leaving y coordinates, width and height, and other drawing values unchanged.
+Let's say that we want to add another smiley face to the right of the first one.  As we know from [Lab 1](lab01.html), x-coordinates increase as we go to the right.  So, we could just repeat the drawing operations that draw the first face, but increase each x-coordinate by a fixed amount, leaving y-coordinates, width and height, and other drawing values unchanged.
 
 So: add the following code to the `draw` function, just below the code that draws the first smiley face:
 
@@ -57,7 +57,7 @@ For our smiley face, let's put the reference point right in the center:
 
 > <a href="../img/lab02/smileyRefpoint.png"><img alt="Smiley face with reference point" style="width: 404px;" src="../img/lab02/smileyRefpoint.png"></a>
 
-We'll refer to the x and y coordinates of the reference point as `smileyX` and `smileyY`.  Here is how we can change the code to make all of the drawing operations relative to coordinates of the reference point:
+We'll refer to the x- and y-coordinates of the reference point as `smileyX` and `smileyY`.  Here is how we can change the code to make all of the drawing operations relative to coordinates of the reference point:
 
 {% highlight java %}
 // Draw a smiley face
@@ -71,9 +71,9 @@ arc(smileyX, smileyY+60, 120, 40, 0, PI);
 
 Let's break this down.
 
-In the first use of `ellipse`, which draws the large circle, we specify the center x and y coordinates as exactly `simleyX` and `smileyY`.  This makes sense: the circle's center is exactly at the reference point.
+In the first use of `ellipse`, which draws the large circle, we specify the center x- and y-coordinates as exactly `simleyX` and `smileyY`.  This makes sense: the circle's center is exactly at the reference point.
 
-In the second use of `ellipse`, which draws the left eye, we want the center x coordinate to be to the left (less than) of the reference point, and the center y coordinate to be above (less than) the reference coordinate.  The original center was at (160, 270): the x coordinate is 40 units less than the big circle's original center x coordinate (200), and the y coordinate is 30 units less than the big circle's original center y coordinate (300).  So, the center x and y coordinates of the left eye become `smileyX-40` and `smileyY-30`, respectively.  (Just as `+` means "add" in Processing, `-` means "subtract.")
+In the second use of `ellipse`, which draws the left eye, we want the center x-coordinate to be to the left (less than) of the reference point, and the center y-coordinate to be above (less than) the reference coordinate.  The original center was at (160, 270): the x-coordinate is 40 units less than the big circle's original center x-coordinate (200), and the y-coordinate is 30 units less than the big circle's original center y-coordinate (300).  So, the center x- and y-coordinates of the left eye become `smileyX-40` and `smileyY-30`, respectively.  (Just as `+` means "add" in Processing, `-` means "subtract.")
 
 "That's great," you say, "but what the heck are `smileyX` and `smileyY`?  Are they real things?"  Heck yeah, they are!  Processing allows us to define *variables*: these are named storage locations where we can store information such as reference point coordinates.  All we need to do is define variables called `smileyX` and `smileyY`, and set them to the specific coordinates we want to use as the reference point.  Here's the whole shebang:
 
@@ -81,7 +81,7 @@ In the second use of `ellipse`, which draws the left eye, we want the center x c
 int smileyX = 200;
 int smileyY = 300;
 
-// Draw a smiley face
+// Draw a smiley face centered at (smileyX, smileyY)
 fill(255);
 ellipse(smileyX, smileyY, 300, 300);
 fill(0);
@@ -103,13 +103,58 @@ Yeah that's right: *the smiley face is now in a different place, and all you had
 
 ## Part 4: Using a function!
 
+"Using variables to define a reference point is kind of nifty," you say, "and I like being able to move the smiley face around so easily by just changing the values of the variables, but I don't see how that helps me draw multiple copies of the smiley face."  Give yourself a pat on the back!  You're exactly right.  It doesn't, because *the code that draws the smiley face only runs one time*.
 
+Now...prepare yourself for the most amazing programming technique of all: *the function*.
 
-Brief explanation of the program.
+A function is a chunk of code that we can execute whenever we want, however many times we want.  Functions can have *parameters*, which are variables whose values can be controlled whenever we use, or *call*, the function.
 
-Things to change, see what happens.
+Let's define a function to draw our smiley face.  The function will have two parameters, `smileyX` and `smileyY`, to control the smiley face's reference point.  Here it is:
 
-Ideas for things to change.
+{% highlight java %}
+// Draw a smiley face centered at (smileyX, smileyY)
+void drawSmiley(int smileyX, int smileyY) {
+  fill(255);
+  ellipse(smileyX, smileyY, 300, 300);
+  fill(0);
+  ellipse(smileyX-40, smileyY-30, 20, 40);
+  ellipse(smileyX+40, smileyY-30, 20, 40);
+  arc(smileyX, smileyY+60, 120, 40, 0, PI);
+}
+{% endhighlight %}
+
+You can copy this into your sketch at the bottom of the file, after the closing curly brace ("`}`") of the `draw` function.  Now, change the `draw` function so that it looks exactly like this:
+
+{% highlight java %}
+void draw() {
+  stroke(0);
+  strokeWeight(5);
+
+  drawSmiley(200, 300);
+  drawSmiley(600, 300);
+}
+{% endhighlight %}
+
+Now try changing the `draw` function to look like this:
+
+{% highlight java %}
+void draw() {
+  stroke(0);
+  strokeWeight(5);
+
+  drawSmiley(180, 180);
+  drawSmiley(620, 180);
+  drawSmiley(400, 420);
+}
+{% endhighlight %}
+
+That's right.  By *calling* the `drawSmiley` function, and specifying the exact reference point coordinates, we can make as many smileys as we want, wherever we want them.  Heck yeah.
+
+> ![Nyan cat](../img/lab02/nyancat.gif)<br><a class="sourceref" href="http://giphy.com/gifs/nyan-cat-sIIhZliB2McAo">source</a>
+
+Just for reference, here's the complete sketch with the function, just so you can make sure that your version is correct (just click on the link to see the code):
+
+> [RepetitionWithFunc.pde](https://github.com/ycpcs/fys100-fall2016/labs/RepetitionWithFunc.pde)
 
 ## Part 5: Using a function to draw repeated elements in your sketch
 
