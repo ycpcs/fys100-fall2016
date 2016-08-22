@@ -27,7 +27,7 @@ Download the following zip file and save it in your **Downloads** folder: [Drawi
 
 Start a file browser window and navigate to your **Downloads** folder.  Right click on **Drawing.zip**.  Choose **Extract All**, then choose `H:\sketchbook` as the destination directory.  *FIXME: verify that this works.*
 
-In Processing, choose **File &rarr; Open**.  In the file chooser dialog, navigate to the **sketchbook** folder in your home directory, the double click on **Drawing**, then choose **Drawing.pde**.  You should now have a Processing window with the source code of the example program.
+In Processing, choose **File &rarr; Open**.  In the file chooser dialog, navigate to the **sketchbook** folder in your home directory, the double click on **Drawing**, then choose **Drawing.pde**.  You should now have a Processing window with the source code of the example sketch.
 
 Click the run button, which looks like this:
 
@@ -37,7 +37,7 @@ Click the run button, which looks like this:
 
 When the sketch runs, it draws a smiley face and some boxes (click for full size):
 
-> <a href="../img/lab01/Drawing.png"><img alt="Example program window" style="width:400px;" src="../img/lab01/Drawing.png"></a>
+> <a href="../img/lab01/Drawing.png"><img alt="Example sketch window" style="width:400px;" src="../img/lab01/Drawing.png"></a>
 
 *Read through the code for the sketch*.  There are comments (lines of text beginning with "//") describing what each section of code is doing.
 
@@ -57,7 +57,7 @@ Try changing it to
 fill(127);
 {% endhighlight %}
 
-Run the program again.  What happened?
+Run the sketch again.  What happened?
 
 Now change it to
 
@@ -82,7 +82,7 @@ Try changing it to
 ellipse(400, 300, 500, 500);
 {% endhighlight %}
  
-Run the program again. What happened?  Now try
+Run the sketch again. What happened?  Now try
 
 {% highlight java %}
 // ???
