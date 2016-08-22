@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Lab 1: Art with Processing"
+title: "Lab 1: Drawing with Processing"
 ---
 
 # Learning goals
 
-* Understand the basic elements of a Processing program
-* Understand how to run programs in the Processing environment
-* Use Processing drawing functions to create images
+* Understand the basic elements of a Processing sketch
+* Understand how to run sketches in the Processing environment
+* Use Processing drawing functions to draw shapes
 
 # What to do
 
@@ -21,7 +21,7 @@ When Processing starts, choose **File &rarr; Preferences**.  In the **Sketchbook
 
 Quit Processing using **File &rarr; Quit**.  Then restart Processing.
 
-## Part 1: Importing the example program
+## Part 2: Importing the example sketch
 
 Download the following zip file and save it in your **Downloads** folder: [Drawing.zip](Drawing.zip).
 
@@ -29,13 +29,17 @@ Start a file browser window and navigate to your **Downloads** folder.  Right cl
 
 In Processing, choose **File &rarr; Open**.  In the file chooser dialog, navigate to the **sketchbook** folder in your home directory, the double click on **Drawing**, then choose **Drawing.pde**.  You should now have a Processing window with the source code of the example program.
 
+Click the run button, which looks like this:
+
+> ![Run button](../img/runButton.png)
+
 ## Part 3: Drawing with Processing
 
-The program draws a smiley face and some boxes (click for full size):
+When the sketch runs, it draws a smiley face and some boxes (click for full size):
 
 > <a href="../img/lab01/Drawing.png"><img alt="Example program window" style="width:400px;" src="../img/lab01/Drawing.png"></a>
 
-*Read through the program*.  There are comments (lines of text beginning with "//") describing what each section of code is doing.
+*Read through the code for the sketch*.  There are comments (lines of text beginning with "//") describing what each section of code is doing.
 
 Now let's try changing some stuff!
 
