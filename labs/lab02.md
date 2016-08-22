@@ -164,7 +164,7 @@ Just for reference, here's the complete sketch with the function, just so you ca
 
 Now, it's time to apply the same technique to your sketch!  (I.e., the one you started in [Lab 1](lab01.html) and are working on as part of [Assignment 2](../assign/assign02.html).)
 
-Find a figure in your sketch that you would like to repeat.  If you have not done so already, use Processing drawing functions to draw one copy of the figure in a fixed location.
+Find a figure in your sketch that you would like to repeat.  If you have not done so already, use Processing drawing functions (i.e., `ellipse`, `rect`, etc.) to draw one copy of the figure in a fixed location.
 
 Next, change the code to draw the figure so that all of the drawing operations are done relative to a reference point.  Introduce variables to store the x- and y-coordinates of the reference point (just like with did with the smiley face above.)  Make sure the program still works as before.
 
