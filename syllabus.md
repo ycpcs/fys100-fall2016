@@ -9,7 +9,7 @@ title: "Syllabus"
 Instructor | Email | Office hours
 ---------- | ----- | ------------
 [Jason Forsyth](http://www.jasonforsyth.net/) | [jbforsyth@ycp.edu](mailto:jbforsyth@ycp.edu) | KEC 115, TBD
-[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | KEC 113, TBD
+[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | KEC 113, M/W/F 11:00-12:00, T/Th 12:30-1:30, or by arrangement
 
 Note that we are co-teaching the course.  You can contact either of us with any course-related matters.
 
