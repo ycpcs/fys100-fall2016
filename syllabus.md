@@ -93,7 +93,7 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
-* Assignments: 90% (TODO: break this down further?)
+* Assignments: 90%
 * Attendance and participation: 10%
 
 ### Course website
@@ -106,9 +106,9 @@ The [Schedule](schedule.html) lists the reading assignments for each class meeti
 
 ### Homework assignments
 
-The [Schedule](schedule.html) page lists the assignments.
+The [Assignments](assign/index.html) page lists the assignments.
 
-TODO: Say something about the different types of assignments?
+All of the assignments involve some combination of (1) critical reading of source texts, (2) critical thinking, (3) writing, and (4) the use of computer programs as a creative medium.
 
 ### Late Assignments
 
