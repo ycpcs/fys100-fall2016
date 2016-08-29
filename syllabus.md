@@ -16,7 +16,7 @@ Note that we are co-teaching the course.  You can contact either of us with any 
 Course Description
 ------------------
 
-Something pithy about what we will be doing in the course.
+Computers today are a powerful medium for creative expression. We will explore the exciting world of creative computing in a series of hands-on projects for users at all levels. We will create art and music, analyze literature and scientific data, and use computers to control and interact with the physical environment. No programming experience is required; just bring your curiosity and a sense of digital adventure.
 
 Prerequisites
 -------------
