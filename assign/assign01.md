@@ -5,7 +5,7 @@ title: "Assignment 2: Journal"
 
 This assignment is ongoing throughout the semester.
 
-Each journal entry is due on 11:59 PM on Sunday, thoughout the semester.
+Each journal entry is due on 11:59 PM on Tuesday, thoughout the semester.
 
 # Learning goals
 
