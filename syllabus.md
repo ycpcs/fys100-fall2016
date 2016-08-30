@@ -6,10 +6,12 @@ title: "Syllabus"
 # FYS 100.139
 <div id="subtitle">Creative Computing, Fall 2016</div>
 
+Meeting time: Tuesday/Thursday, 12:30-1:45 in KEC 123
+
 Instructor | Email | Office hours
 ---------- | ----- | ------------
 [Jason Forsyth](http://www.jasonforsyth.net/) | [jbforsyth@ycp.edu](mailto:jbforsyth@ycp.edu) | KEC 115, TBD
-[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | KEC 113, M/W/F 11:00-12:00, T/Th 12:30-1:30, or by arrangement
+[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | KEC 113, M/W/F 11:00-12:00, T/Th 2:00-3:00, or by arrangement
 
 Note that we are co-teaching the course.  You can contact either of us with any course-related matters.
 
@@ -114,6 +116,14 @@ All of the assignments involve some combination of (1) critical reading of sourc
 
 Assignments may be submitted up to two (2) days late, with a grade reduction of 10% per day late.
 
+### Attendance and Participation
+
+Class meetings will consist primarily of activities, discussions, and presentations, so it is extremely important that you attend every class meeting, and participate fully in each class meeting.
+
+Repeated unexcused absences, or failure to participate in class activities, will reduce your participation grade.  We will consider 6 or more unexcused absences to be grounds for assigning a failing grade for the course.
+
+If there are unavoidable circumstances that prevent you from attending a class meeting, please let us know as soon as you can so we can work out an accomodation.
+
 ### Academic Integrity
 
 York College's mission statement stipulates that strict adherence to principles of academic honesty is expected of all students. Therefore, academic dishonesty will not be tolerated at York College. Academic dishonesty refers to actions such as, but not limited to, cheating, plagiarism, fabricating research, falsifying academic documents, etc., and includes all situations where students make use of the work of others and claim such work as their own.
@@ -123,14 +133,6 @@ When a faculty member believes a student has committed an act of academic dishon
 Students who believe they have been unjustly charged or sanctioned must discuss the situation with the faculty member and have 10 business days thereafter to submit an appeal to Student Welfare Committee through the Dean of Academic Affairs. If an appeal is filed, the Student Welfare Committee will then conduct a hearing to review the charge and/or sanction.  In the case of an egregious first offense, the faculty member may request that the Student Welfare Committee conduct a hearing and determine a sanction, which may involve academic probation, suspension or dismissal from the College.
 
 If the Dean of Academic Affairs determines that the academic dishonesty is the student's second offense, the Dean will provide written notification to the student, the faculty member, and the Department Chair. The Student Welfare Committee will automatically conduct a hearing to review the charge and decide on an appropriate sanction, which will involve academic probation, suspension or dismissal from the College. Students who believe the Student Welfare Committee has unjustly sanctioned them may submit a written appeal to the Dean of Academic Affairs within 72 hours of receiving notification of the Student Welfare Committee's sanction.
-
-### Attendance and Participation
-
-Class meetings will consist primarily of activities, discussions, and presentations, so it is extremely important that you attend every class meeting, and participate fully in each class meeting.
-
-Repeated unexcused absences, or failure to participate in class activities, will reduce your participation grade.  We will consider 6 or more unexcused absences to be grounds for assigning a failing grade for the course.
-
-If there are unavoidable circumstances that prevent you from attending a class meeting, please let us know as soon as you can so we can work out an accomodation.
 
 ### Use of Personal Technology in the Classroom
 
