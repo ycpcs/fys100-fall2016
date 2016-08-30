@@ -24,39 +24,39 @@ Topic color codes:
 * <span class="topic-sci"></span> Science
 * <span class="topic-phy"></span> Physical computing
 
-Date | Topic | Assignment/Activity | Agenda | Reading
----- | ----- | ------------------- | -------| -------
-Aug 30 | <span class="topic-sc"></span> First day | Discussion | [Day 1](agenda/day01.html) | &mdash;
-Sep 1 | <span class="topic-sc"></span> Expectations for college | Discussion | [Day 2](agenda/day02.html) | [NYTEd30Jul15](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), [Lahey15](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/)
-Sep 6 | <span class="topic-art"></span> Drawing with Processing | [Lab 1](labs/lab01.html) | [Day 3](agenda/day03.html) | (Start [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127))<br> LP, Introduction, Chapters 1&ndash;2
-Sep 8 | <span class="topic-art"></span> Repetition | [Lab 2](labs/lab02.html) | [Day 4](agenda/day04.html) | &mdash;
-Sep 13 | <span class="topic-sc"></span> Being an Engaged Learner | Meet in Weinstock | [Day 5](agenda/day05.html) | &mdash; 
-Sep 15 | <span class="topic-art"></span> Animation | [Lab 3](labs/lab03.html) | [Day 6](agenda/day06.html) | &mdash;
-Sep 20 | <span class="topic-art"></span> Generative art | [Lab 4](labs/lab04.html) | [Day 7](agenda/day07.html) | LP, Chapters 4&ndash;5<br>[ShiffmanNOCCh8](http://natureofcode.com/book/chapter-8-fractals/)
-Sep 22 | <span class="topic-art"></span> [Visual art] | &mdash; | [Day 8](agenda/day08.html) | &mdash;
-Sep 27 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 9](agenda/day09.html) | &mdash;
-Sep 29 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 10](agenda/day10.html) | &mdash;
-Oct 4 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 11](agenda/day11.html) | &mdash;
-Oct 6 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 12](agenda/day12.html) | &mdash;
-Oct 11 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 13](agenda/day13.html) | &mdash;
-Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | &mdash;
+Date | Topic | Activity | Agenda | Due | Reading
+---- | ----- | -------- | -------| --- | -------
+Aug 30 | <span class="topic-sc"></span> First day | Discussion | [Day 1](agenda/day01.html) | [A0](assign/assign00.html) | &mdash;
+Sep 1 | <span class="topic-sc"></span> Expectations for college | Discussion | [Day 2](agenda/day02.html) | &mdash; | [NYTEd30Jul15](http://www.nytimes.com/2015/08/02/education/edlife/advice-for-new-students-from-those-who-know-old-students.html), [Lahey15](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/)
+Sep 6 | <span class="topic-art"></span> Drawing with Processing | [Lab 1](labs/lab01.html) | [Day 3](agenda/day03.html) | [A1 journal entry](assign/assign01.html) | (Start [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127))<br> LP, Introduction, Chapters 1&ndash;2
+Sep 8 | <span class="topic-art"></span> Repetition | [Lab 2](labs/lab02.html) | [Day 4](agenda/day04.html) | &mdash; | &mdash;
+Sep 13 | <span class="topic-sc"></span> Being an Engaged Learner | Meet in Weinstock | [Day 5](agenda/day05.html) | [A1 journal entry](assign/assign01.html) | &mdash; 
+Sep 15 | <span class="topic-art"></span> Animation | [Lab 3](labs/lab03.html) | [Day 6](agenda/day06.html) | [A2 essay outline](assign/assign02.html) | &mdash;
+Sep 20 | <span class="topic-art"></span> Generative art | [Lab 4](labs/lab04.html) | [Day 7](agenda/day07.html) | [A1 journal entry](assign/assign01.html) | LP, Chapters 4&ndash;5<br>[ShiffmanNOCCh8](http://natureofcode.com/book/chapter-8-fractals/)
+Sep 22 | <span class="topic-art"></span> [Visual art] | &mdash; | [Day 8](agenda/day08.html) | [A2 essay draft](assign/assign02.html) | &mdash;
+Sep 27 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 9](agenda/day09.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Sep 29 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 10](agenda/day10.html) | [A2 essay and code](assign/assign02.html) | &mdash;
+Oct 4 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 11](agenda/day11.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Oct 6 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 12](agenda/day12.html) | &mdash; | &mdash;
+Oct 11 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 13](agenda/day13.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | &mdash; | &mdash;
 Oct 18 | *Fall break, no class*
-Oct 20 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 15](agenda/day15.html) | &mdash;
-Oct 25 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 16](agenda/day16.html) | &mdash;
-Oct 27 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 17](agenda/day17.html) | &mdash;
-Nov 1 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 18](agenda/day18.html) | &mdash;
-Nov 3 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 19](agenda/day19.html) | &mdash;
-Nov 8 | <span class="topic-sc"></span> Ready, Set, Registration! | &mdash; | [Day 20](agenda/day20.html) | &mdash;
-Nov 10 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 21](agenda/day21.html) | &mdash;
-Nov 15 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 22](agenda/day22.html) | &mdash;
-Nov 17 | <span class="topic-sc"></span> GenNext | &mdash; | [Day 23](agenda/day23.html) | &mdash;
-Nov 22 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 24](agenda/day24.html) | &mdash;
+Oct 20 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 15](agenda/day15.html) | &mdash; | &mdash;
+Oct 25 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 16](agenda/day16.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Oct 27 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 17](agenda/day17.html) | &mdash; | &mdash;
+Nov 1 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Nov 3 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 19](agenda/day19.html) | &mdash; | &mdash;
+Nov 8 | <span class="topic-sc"></span> Ready, Set, Registration! | &mdash; | [Day 20](agenda/day20.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Nov 10 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 21](agenda/day21.html) | &mdash; | &mdash;
+Nov 15 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 22](agenda/day22.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Nov 17 | <span class="topic-sc"></span> GenNext | &mdash; | [Day 23](agenda/day23.html) | &mdash; | &mdash;
+Nov 22 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 24](agenda/day24.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Nov 24 | *Thanksgiving, no class*
-Nov 29 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | &mdash;
-Dec 1 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | &mdash;
-Dec 6 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 26](agenda/day26.html) | &mdash;
-Dec 8 | Project demos | &mdash; | [Day 27](agenda/day27.html) | &mdash;
-Dec 13 | Project demos | &mdash; | [Day 28](agenda/day28.html) | &mdash;
+Nov 29 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Dec 1 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | &mdash; | &mdash;
+Dec 6 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 26](agenda/day26.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Dec 8 | Project demos | &mdash; | [Day 27](agenda/day27.html) | &mdash; | &mdash;
+Dec 13 | Project demos | &mdash; | [Day 28](agenda/day28.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 
 Readings/Videos/Media:
 
