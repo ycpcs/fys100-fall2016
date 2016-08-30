@@ -10,7 +10,7 @@ Meeting time: Tuesday/Thursday, 12:30-1:45 in KEC 123
 
 Instructor | Email | Office hours
 ---------- | ----- | ------------
-[Jason Forsyth](http://www.jasonforsyth.net/) | [jbforsyth@ycp.edu](mailto:jbforsyth@ycp.edu) | KEC 115, TBD
+[Jason Forsyth](http://www.jasonforsyth.net/) | [jbforsyth@ycp.edu](mailto:jbforsyth@ycp.edu) | KEC 115, M/W 2-3:30, T/Th 12:00-1:00
 [David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | KEC 113, M/W/F 11:00-12:00, T/Th 2:00-3:00, or by arrangement
 
 Note that we are co-teaching the course.  You can contact either of us with any course-related matters.
