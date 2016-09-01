@@ -15,9 +15,11 @@ Welcome to the FYS 100.139 home page!  All of the information about the course w
 * [Schedule](schedule.html) &mdash; Schedule of topics, activities, and readings, and assignments
 * [Resources](resources.html) &mdash; Useful resources, including links to software we will be using
 * [Assignments](assign/index.html) &mdash; Assignments you will work on outside of class
+* [Fantastic Fall Events (pdf)](media/Fantastic Fall Events 2016.pdf) &mdash; Academic and community events
 
 ## News
 
+* **Sep 1** &mdash; A link to the [Fantastic Fall Events](media/Fantastic Fall Events 2016.pdf) for first-year students has been posted.  You should go to these!
 * **Aug 30** &mdash; Welcome!  [Assignment 0](assign/assign00.html) is due today (don't worry, it's short.)
 
 <!-- vim:set wrap: ­-->
