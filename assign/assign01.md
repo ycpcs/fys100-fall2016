@@ -25,4 +25,4 @@ Each week, write 2 or 3 entries in the journal you created in [Assignment 0](ass
 
 # Grading
 
-Each Monday, we will read your journal entries for the previous week, and mark your work as ✓ (satisfactorily completed) or ✗ (incomplete or unsatisfactory).  We may also add some comments and/or suggestions.
+Each Wednesday, we will read your journal entries for the previous week, and mark your work as ✓ (satisfactorily completed) or ✗ (incomplete or unsatisfactory).  We may also add some comments and/or suggestions.
