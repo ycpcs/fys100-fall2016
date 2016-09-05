@@ -15,19 +15,13 @@ title: "Lab 1: Drawing with Processing"
 
 Start Processing by clicking the start menu, then choosing **Programs**, then **Processing**.
 
-When Processing starts, choose **File &rarr; Preferences**.  In the **Sketchbook location** setting, enter the text
-
-    H:\sketchbook
-
-Quit Processing using **File &rarr; Quit**.  Then restart Processing.
-
 ## Part 2: Importing the example sketch
 
 Download the following zip file and save it in your **Downloads** folder: [Drawing.zip](Drawing.zip).
 
-Start a file browser window and navigate to your **Downloads** folder.  Right click on **Drawing.zip**.  Choose **Extract All**, then choose `H:\sketchbook` as the destination directory.  *FIXME: verify that this works.*
+Start a file browser window and navigate to your **Downloads** folder.  Right click on **Drawing.zip**.  Choose **Extract All**, then choose `H:\My Documents\Processing` as the destination directory.
 
-In Processing, choose **File &rarr; Open**.  In the file chooser dialog, navigate to the **sketchbook** folder in your home directory, the double click on **Drawing**, then choose **Drawing.pde**.  You should now have a Processing window with the source code of the example sketch.
+In Processing, choose **File &rarr; Open**.  In the file chooser dialog, navigate to `H:\My Documents\Processing`, then double click on `Drawing`, then choose `Drawing.pde`.  You should now have a Processing window with the source code of the example sketch.
 
 Click the run button, which looks like this:
 
