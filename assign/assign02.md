@@ -38,7 +38,7 @@ void draw() {
 }
 {% endhighlight %}
 
-Choose **File &rarr; Save As...**.  Make sure that your sketchbook folder (`H:\sketchbook`) is selected as the folder.)  In the **Selection** text box, enter **VisualArtProject**.  Click **OK**.
+Choose **File &rarr; Save As...**.  Make sure that your sketchbook folder (`H:/My Documents/Processing`) is selected as the folder.)  In the **Selection** text box, enter **VisualArtProject**.  Click **OK**.
 
 Congratulations!  You have created a Processing sketch called **VisualArtProject**.
 
