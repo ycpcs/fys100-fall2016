@@ -119,7 +119,7 @@ x = x + dx;
 y = y + dy;
 {% endhighlight %}
 
-(See if you can figure out how this one works.)
+(See if you can figure out how this one works.  Note that in Processing, "`||`" means "or".)
 
 Fourth version ([See it](demo/lab03/anim5.html)):
 
@@ -130,7 +130,7 @@ x = int(400 + sin(theta) * 150);
 y = int(300 + cos(theta) * 150);
 {% endhighlight %}
 
-(You might need to recall your high school trigonometry class for this one!  Note that this last one is a bit different than the others because the `theta` variable is changing each time `draw` is executed, and `x` and `y` are recomputed based on the current value of `theta`.)
+(You might need to recall your high school trigonometry for this one!  Note that this last one is a bit different than the others because the `theta` variable is changing each time `draw` is executed, and `x` and `y` are recomputed based on the current value of `theta`.)
 
 ## Part 4: Animation in your own sketch
 
