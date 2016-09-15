@@ -5,14 +5,12 @@ title: "Day 6 agenda"
 
 # Agenda
 
-On day 5 we will experiment with *Generative Art*, which is a term used to describe art that is the result of a process or computation.
-
-In particular, we will investigate *fractals*, which are visual patterns that exhibit self-similarity.  Fractals are often found in nature.
+On day 6 we will experiment with animation.
 
 ## Get ready
 
 <img class="parimg" alt="Get ready" src="img/getready.png">
 
-To get ready, do the reading from the textbook (Chapters 4&ndash;5) and from [Chapter 8](http://natureofcode.com/book/chapter-8-fractals/) of [The Nature of Code](http://natureofcode.com/).  Also, read through the description of [Lab 4](../labs/lab04.html).
+To get ready, read the description for [Lab 3](../labs/lab03.html).  Also, if you do not yet have a method with x and/or y parameters that allows you to draw an element at an arbitrary position, please add one.  (See [Lab 2](../labs/lab02.html) for details.)
 
 <div style="clear: both;"></div>
