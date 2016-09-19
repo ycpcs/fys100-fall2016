@@ -78,7 +78,9 @@ The final version of the essay should be saved in a document called `EssayFinal`
 
 Your essay should be *at least* two pages in length.  (Two pages is a minimuim, and I would expect that it is more likely that three or more pages will be necessary.)  You should strive to be clear and concise.
 
-*Proofread your reflection carefully*.  I will make comments on the draft (so you can use the feedback for your final version), but it is your responsibility to check your work carefully for spelling and grammar errors.
+*Proofread your reflection carefully*.  We will make comments on the draft (so you can use the feedback for your final version), but it is your responsibility to check your work carefully for spelling and grammar errors.
+
+Please read our [Effective Writing](../outcomes/writing.html) document for more information about our expectations for your writing.
 
 # Grading criteria
 
