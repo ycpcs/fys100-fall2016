@@ -3,8 +3,6 @@ layout: default
 title: "Assignment 2: Visual Art"
 ---
 
-*Please note that this assignment is not completely finalized yet.*
-
 Due dates:
 
 * Outline of essay due **Thursday, Sept 15th** by 11:59 PM
@@ -84,7 +82,29 @@ Your essay should be *at least* two pages in length.  (Two pages is a minimuim, 
 
 # Grading criteria
 
-Coming soon.
+The overall project is worth 100 points.
+
+The program is worth up to 40 points, and the essay outline, draft, and final version are worth up to 60 points.
+
+For the program:
+
+* A basic composition (with a small number of visual elements, but with at least one repeated element implemented using a method) will earn up to 28 points
+* A more complex composition (with a larger number of visual elements, and also with at least one repeated element implemented using a function) will earn up to 32 points
+* Up to 8 points may be earned through the use of optional features (repeated elements using a loop, generative elements, and/or animated elements)
+
+The outline is worth up to 4 points.
+
+The draft is worth up to 8 points.
+
+For the final version of the essay:
+
+* Introduction: up to 6 points
+* Discussion of creative process: up to 12 points
+* Discussion of ways in which the composition succeeded: up to 12 points
+* Discussion of ways in which the composition could be improved: up to 12 points
+* Conclusions: up to 6 points
+
+To earn a higher grade for the essay, you should express yourself clearly and concisely, and your writing should offer some deep insights into the creative process.
 
 # Submitting
 
