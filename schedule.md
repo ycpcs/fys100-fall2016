@@ -33,7 +33,7 @@ Sep 8 | <span class="topic-art"></span> Repetition | [Lab 2](labs/lab02.html) | 
 Sep 13 | <span class="topic-sc"></span> Being an Engaged Learner | Meet in Weinstock | [Day 5](agenda/day05.html) | [A1 journal entry](assign/assign01.html) | &mdash; 
 Sep 15 | <span class="topic-art"></span> Animation | [Lab 3](labs/lab03.html) | [Day 6](agenda/day06.html) | [A2 essay outline](assign/assign02.html) | &mdash;
 Sep 20 | <span class="topic-art"></span> Generative art | [Lab 4](labs/lab04.html) | [Day 7](agenda/day07.html) | [A1 journal entry](assign/assign01.html) | LP, Chapters 4&ndash;5<br>[ShiffmanNOCCh8](http://natureofcode.com/book/chapter-8-fractals/)
-Sep 22 | <span class="topic-art"></span> [Visual art] | &mdash; | [Day 8](agenda/day08.html) | [A2 essay draft](assign/assign02.html) | [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127)
+Sep 22 | <span class="topic-art"></span> Computers and art | Discussion | [Day 8](agenda/day08.html) | [A2 essay draft](assign/assign02.html) | [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127)
 Sep 27 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 9](agenda/day09.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Sep 29 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 10](agenda/day10.html) | [A2 essay and code](assign/assign02.html) | &mdash;
 Oct 4 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 11](agenda/day11.html) | [A1 journal entry](assign/assign01.html) | &mdash;
