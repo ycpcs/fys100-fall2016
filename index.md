@@ -19,6 +19,7 @@ Welcome to the FYS 100.139 home page!  All of the information about the course w
 
 ## News
 
+* **Sep 20** &mdash; [Assignment 3](assign/assign03.html) has been posted.  Your task is to attend 5 campus events and write about them in your journal.  See the assignment description for details.
 * **Sep 19** &mdash; The full grading criteria for [Assignment 2](assign/assign02.html) are available.
 * **Sep 1** &mdash; A link to the [Fantastic Fall Events](media/Fantastic Fall Events 2016.pdf) for first-year students has been posted.  You should go to these!
 * **Aug 30** &mdash; Welcome!  [Assignment 0](assign/assign00.html) is due today (don't worry, it's short.)
