@@ -29,7 +29,7 @@ The code `Terrapin t = new Terrapin(this);` makes the variable `t` refer to a ne
 
 The code `t.setLocation(x, y);` sets the Terrapin's location to the specified x/y coordinates.  These might be literal values (e.g., 400, 300) or they could be variables.
 
-The code `t.setLocation(r, g, b);` sets the Terrapin's pen color to the specified R/G/B values.
+The code `t.setPenColor(r, g, b);` sets the Terrapin's pen color to the specified R/G/B values.
 
 The code `t.forward(dist);` moves the Terrapin forward by the specified distance.
 
