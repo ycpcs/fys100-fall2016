@@ -3,7 +3,7 @@ import io.github.daveho.funwithsound.*;
 FunWithSound fws = new FunWithSound(this);
 
 // Directory where you keep your soundfonts
-String SOUNDFONTS = "/home/dhovemey/SoundFonts";
+String SOUNDFONTS = "C:/SoundFonts";
 
 String TR808 = SOUNDFONTS + "/tr808/Roland_TR-808_batteria_elettronica.sf2";
 String FLUID = SOUNDFONTS + "/fluid/FluidR3 GM2-2.SF2";
