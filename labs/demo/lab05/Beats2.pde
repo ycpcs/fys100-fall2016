@@ -44,8 +44,6 @@ class MyComp extends Composer {
     add1(gf(kickf, snaref, hihat1f, hihat2f));
     add1(gf(kickf, snaref, hihat1f, hihat2f, bassf));
     add1(gf(kickf, snaref, hihat1f, hihat2f));
-    
-    audition(bass);
   }
 }
 
