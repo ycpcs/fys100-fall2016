@@ -36,6 +36,10 @@ The precise way that MIDI messages are translated into instrument sounds depends
 
 There are lots of soundfonts available for free download: the [Hammersound](http://www.hammersound.net/) website is a good one, but there are many others.  On the computers in KEC 123, we have created a directory `C:/SoundFonts` containing a selection of good soundfonts.
 
+## Rhythms, Melodies, and Figures
+
+Please read the [Basics documentation](https://github.com/daveho/FunWithSound/wiki/Basics) for the FunWithSound library, which provides an overview of all of the important FunWithSound concepts.  In particular, make sure you know what *instrument*, *rhythm*, *melody*, and *figure* refer to.
+
 ## Beats
 
 Let's start with a first sketch.  Start Processing.  Then, click on the following link and copy the program text into your Processing window:
@@ -48,7 +52,7 @@ Save the sketch as `Beats`.  Run the sketch.  You should see the following:
 
 Plug in your headphones and *adjust the system volume to a low setting*.  Run the sketch and click the mouse in the window.  You will hear 8 electronic bass drum beats.  (If you don't hear them, raise the volume a bit and click again.)  So what is going on?
 
-The important part of the sketch is the `create` function.  This function is responsible for creating instruments, rhythms, melodies, figures, and arranging the figures into a composition.  (Don't worry, we'll explain what all of that means in a bit.)  Basically, this is the function where you specify what you want to hear.  Let's take a look at what we have in this initial `create` function.
+The important part of the sketch is the `create` function.  This function is responsible for creating instruments, rhythms, melodies, figures, and arranging the figures into a composition.  Basically, this is the function where you specify what you want to hear.  Let's take a look at what we have in this initial `create` function.
 
 {% highlight java %}
 tempo(110, 4);
@@ -84,9 +88,67 @@ add1(gf(kickf));
 
 These lines schedule the `kickf` figure to be played twice.  Basically, each call to `add1` specifies the figure or figures to be played in one measure of the composition.  (The use of the `gf` function allows multiple figures to be specified.)  Since we have two calls to `add1`, each of which plays `kickf`, we hear the "four on the floor" pattern twice.
 
-## Rhythms, Melodies, and Figures
+**Experiment to try.** Try changing the definition of `kickr` to:
 
-We haven't really explained what rhythms, melodies, and figures are.  Please read the [Basics documentation](https://github.com/daveho/FunWithSound/wiki/Basics) for the FunWithSound library, which provides an overview of all of the important FunWithSound concepts.
+{% highlight java %}
+Rhythm kickr = r(p(0), p(2), p(2.5));
+{% endhighlight %}
+
+Restart the sketch and click to play.  How did the pattern change?
+
+## Snare
+
+Just after the definitions for `kickr` and `kickf`, add the following code:
+
+{% highlight java %}
+Rhythm snarer = r(p(1), p(3), p(3.25), p(3.75));
+Figure snaref = pf(snarer, 40, drumkit);
+{% endhighlight %}
+
+Next, change the lines that call the `add1` function from:
+
+{% highlight java %}
+add1(gf(kickf));
+add1(gf(kickf));
+{% endhighlight %}
+
+to
+
+{% highlight java %}
+add1(gf(kickf, snaref));
+add1(gf(kickf, snaref));
+{% endhighlight %}
+
+This adds a snare drum pattern to the bass drum beats: for both of the measures we've added to the composition, we are playing both `kickf` (the kick drum figure) and `snaref` (the new snare drum figure).  (For percussion instruments, note 40 is "Electric Snare".)
+
+Note how we've used fractional beat numbers to add a bit of syncopation to the composition.
+
+## Hihats
+
+No dance music beat would be complete without some hihats.  Add the following code just after the definition of `snarer` and `snaref`:
+
+{% highlight java %}
+Rhythm hihat1r = r(p(.25), p(.375), p(.5), p(1), p(1.5));
+Figure hihat1f = pf(hihat1r, 42, drumkit);
+Rhythm hihat2r = r(s(2, 1), s(3, 1));
+Figure hihat2f = pf(hihat2r, 46, drumkit);
+{% endhighlight %}
+
+Next change the lines that call the `add1` function from
+
+{% highlight java %}
+add1(gf(kickf, snaref));
+add1(gf(kickf, snaref));
+{% endhighlight %}
+
+to
+
+{% highlight java %}
+add1(gf(kickf, snaref, hihat1f, hihat2f));
+add1(gf(kickf, snaref, hihat1f, hihat2f));
+{% endhighlight %}
+
+Note that we defined two rhythms and two figures because we're using two distinct hihat sounds: note 42 is "Closed Hi Hat", and note 46 is "Open Hi Hat".  Also note that rather than using `p` to specify the strikes for the open hihat sounds, we used `s`, which allows us to specify a duration.  Open hihats are sustained, so we need to specify how long they should "ring".
 
 # Your turn
 
