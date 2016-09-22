@@ -194,7 +194,26 @@ A few things to note:
 
 In case you would like to see the entire demo sketch, click the following:
 
-> Yuh.
+> [Beats2.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab05/Beats2.pde)
+
+## Some stuff to try!
+
+This composition is obviously just a starting point.  Here are some things to try changing:
+
+* Change the patch that the `bass` instrument uses: for example, patch 39 is "Synth Bass 1" (see the [GM1 sound set](https://www.midi.org/specifications/item/gm-level-1-sound-set) for the available patches)
+* Try changing the tempo
+* Try changing the base note of the scale (for example, 69 is A4)
+* Try changing to a minor scale (e.g., `melodicMinor(60)` rather than `major(60)`)
+* Try adding additional kick drum, snare, hihat, and bass figures to the composition
+* Try adding more measures to the composition: one effective technique is to let the bass "drop out" for several measures (this is common in dub reggae, which influenced many electronic music genres)
+
+## A more complete example
+
+Here is a somewhat more complete example:
+
+> [Thieves.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab05/Thieves.pde)
+
+Feel free to copy this into a blank sketch and run it.  (Apologies to [New Order](https://www.youtube.com/watch?v=VVQfJ5xCpuY).)
 
 # Your turn
 
