@@ -150,8 +150,54 @@ add1(gf(kickf, snaref, hihat1f, hihat2f));
 
 Note that we defined two rhythms and two figures because we're using two distinct hihat sounds: note 42 is "Closed Hi Hat", and note 46 is "Open Hi Hat".  Also note that rather than using `p` to specify the strikes for the open hihat sounds, we used `s`, which allows us to specify a duration.  Open hihats are sustained, so we need to specify how long they should "ring".
 
+## Bass
+
+Now let's add some bass.  Melodic figures are a little more complicated because we need to think about the sustain for each note, and of course we need a melody.  Try adding the following just below `hihat1r`, `hihat1f`, `hihat2r`, and `hihat2f`:
+
+{% highlight java %}
+Rhythm bassr = r(
+  s(.5, .25), s(1, .25), s(1.25, .25), s(1.75, 1.25),
+  s(4.5, .25), s(5, .25), s(5.25, .25), s(5.75, .5),
+  s(6.5, .25), s(7, .25), s(7.25, .5)
+);
+Melody bassm = m(
+  -16,-16,-16,-16,
+  -20,-20,-20,-19,
+  -14,-14,-14
+);
+Figure bassf = f(bassr, bassm, bass);
+{% endhighlight %}
+
+Now change the calls to `add1` from
+
+{% highlight java %}
+add1(gf(kickf, snaref, hihat1f, hihat2f));
+add1(gf(kickf, snaref, hihat1f, hihat2f));
+{% endhighlight %}
+
+to
+
+{% highlight java %}
+add1(gf(kickf, snaref, hihat1f, hihat2f, bassf));
+add1(gf(kickf, snaref, hihat1f, hihat2f));
+add1(gf(kickf, snaref, hihat1f, hihat2f, bassf));
+add1(gf(kickf, snaref, hihat1f, hihat2f));
+{% endhighlight %}
+
+A few things to note:
+
+* The `bassr` rhythm is two measures long (note how some of the start beats are greater than 4)
+* Because `bassr` is two measures long, we only need to start it every other measure
+* All of the strikes in the rhythm specify a duration in beats
+* The notes in the `bassm` melody are negative, meaning that they are lower than the base note of the scale
+* We increased the total number of measures from 2 to 4
+
+In case you would like to see the entire demo sketch, click the following:
+
+> Yuh.
+
 # Your turn
 
-<!-- vim:set wrap: ­-->
+<!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
 <!-- vim:set nolist: -->
