@@ -3,7 +3,7 @@ layout: default
 title: "Syllabus"
 ---
 
-# FYS 100.139
+# FYS 100.128
 <div id="subtitle">Creative Computing, Fall 2016</div>
 
 Meeting time: Tuesday/Thursday, 12:30-1:45 in KEC 123
