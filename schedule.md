@@ -34,11 +34,11 @@ Sep 13 | <span class="topic-sc"></span> Being an Engaged Learner | Meet in Weins
 Sep 15 | <span class="topic-art"></span> Animation | [Lab 3](labs/lab03.html) | [Day 6](agenda/day06.html) | [A2 essay outline](assign/assign02.html) | &mdash;
 Sep 20 | <span class="topic-art"></span> Generative art | [Lab 4](labs/lab04.html) | [Day 7](agenda/day07.html) | [A1 journal entry](assign/assign01.html) | LP, Chapters 4&ndash;5<br>[ShiffmanNOCCh8](http://natureofcode.com/book/chapter-8-fractals/)
 Sep 22 | <span class="topic-art"></span> Computers and art | Discussion | [Day 8](agenda/day08.html) | [A2 essay draft](assign/assign02.html) | [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127)
-Sep 27 | <span class="topic-mus"></span> Drum and bass | [Lab 5](labs/lab05.html) | [Day 9](agenda/day09.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Sep 27 | <span class="topic-mus"></span> Drum and bass | [Lab 5](labs/lab05.html) | [Day 9](agenda/day09.html) | [A1 journal entry](assign/assign01.html) | (Start [IAMUSDocumentary](https://www.youtube.com/watch?v=ETGDbWvWCbM), [Guardian1Jul12](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), and [0musicPlaylist](https://www.youtube.com/watch?v=SxvV5zn7e9s))
 Sep 29 | <span class="topic-mus"></span> Melodies | [Lab 6](labs/lab06.html) | [Day 10](agenda/day10.html) | [A2 essay and code](assign/assign02.html) | &mdash;
 Oct 4 | <span class="topic-mus"></span> Sample playback | [Lab 7](labs/lab07.html) | [Day 11](agenda/day11.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Oct 6 | <span class="topic-mus"></span> Synthesis, Effects | [Lab 8](labs/lab08.html) | [Day 12](agenda/day12.html) | [A4 draft](assign/assign04.html) | &mdash;
-Oct 11 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 13](agenda/day13.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Oct 11 | <span class="topic-mus"></span> [Music] | Automated music composition | [Day 13](agenda/day13.html) | [A1 journal entry](assign/assign01.html) | [IAMUSDocumentary](https://www.youtube.com/watch?v=ETGDbWvWCbM), [Guardian1Jul12](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), and [0musicPlaylist](https://www.youtube.com/watch?v=SxvV5zn7e9s)
 Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | [A4 essay and code](assign/assign04.html) | &mdash;
 Oct 18 | *Fall break, no class*
 Oct 20 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 15](agenda/day15.html) | &mdash; | &mdash;
@@ -64,11 +64,11 @@ Readings/Videos/Media:
 * Lahey15: Jessica Lahey, [When Success Leads to Failure](http://www.theatlantic.com/education/archive/2015/08/when-success-leads-to-failure/400925/), The Atlantic, August 11th, 2015
 * Noll67: A. Michael Noll, [The digital computer as a creative medium](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127), IEEE Spectrum, Volume 4, Issue 10, Oct 1967 (Note that you will need to download this article from campus)
 * ShiffmanNOCCh8: Daniel Shiffman, [The Nature of Code, Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
-
-<!--
 * IAMUSDocumentary: [IAMUS / MELOMICS documentary](https://www.youtube.com/watch?v=ETGDbWvWCbM)
 * Guardian1Jul12: [Iamus, classical music's computer composer, live from Malaga](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), Philip Ball, in The Guardian, July 1st, 2012
 * 0musicPlaylist: [0music](https://www.youtube.com/watch?v=SxvV5zn7e9s)
+
+<!--
 * NYTArts17Nov10: [Digital Keys for Unlocking the Humanities’ Riches](http://www.nytimes.com/2010/11/17/arts/17digital.html), New York Times, Nov 17th, 2010
 * MichelAidenTEDJul2011: [What we learned from 5 million books](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en#t-512521), TEDxBoston 2011
 * GenNext: [Gen Next at York College](http://www.ycp.edu/academics/gen-next/)
