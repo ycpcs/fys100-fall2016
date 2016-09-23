@@ -2,3 +2,7 @@ baseurl: "//ycpcs.github.io/fys100-fall2016"
 markdown: kramdown
 highlighter: rouge
 coursename: "FYS 100.128"
+
+kramdown:
+    input: GFM
+    hard_wrap: false

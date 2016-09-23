@@ -215,7 +215,15 @@ Here is a somewhat more complete example:
 
 Feel free to copy this into a blank sketch and run it.  (Apologies to [New Order](https://www.youtube.com/watch?v=VVQfJ5xCpuY).)
 
+## Using FunWithSound
+
+The [FunWithSound reference](https://github.com/daveho/FunWithSound/wiki/Reference) documentation has the complete details about how to use the available functions.
+
 # Your turn
+
+To finish up, please start your own music composition Processing sketch by following the instructions in the **Getting started** section of [Assignment 4](../assign/assign04.html).  This should create a sketch called `MusicComposition`.
+
+Start adding code to create and play rhythms and bass lines to your sketch.
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
