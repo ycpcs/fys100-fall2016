@@ -35,11 +35,11 @@ Sep 15 | <span class="topic-art"></span> Animation | [Lab 3](labs/lab03.html) | 
 Sep 20 | <span class="topic-art"></span> Generative art | [Lab 4](labs/lab04.html) | [Day 7](agenda/day07.html) | [A1 journal entry](assign/assign01.html) | LP, Chapters 4&ndash;5<br>[ShiffmanNOCCh8](http://natureofcode.com/book/chapter-8-fractals/)
 Sep 22 | <span class="topic-art"></span> Computers and art | Discussion | [Day 8](agenda/day08.html) | [A2 essay draft](assign/assign02.html) | [Noll67](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5217127)
 Sep 27 | <span class="topic-mus"></span> Drum and bass | [Lab 5](labs/lab05.html) | [Day 9](agenda/day09.html) | [A1 journal entry](assign/assign01.html) | &mdash;
-Sep 29 | <span class="topic-mus"></span> Lab 6: Melodies | &mdash; | [Day 10](agenda/day10.html) | [A2 essay and code](assign/assign02.html) | &mdash;
-Oct 4 | <span class="topic-mus"></span> Lab 7: Sample playback | &mdash; | [Day 11](agenda/day11.html) | [A1 journal entry](assign/assign01.html) | &mdash;
-Oct 6 | <span class="topic-mus"></span> Lab 8: Synthesis | &mdash; | [Day 12](agenda/day12.html) | &mdash; | &mdash;
+Sep 29 | <span class="topic-mus"></span> Melodies | [Lab 6](labs/lab06.html) | [Day 10](agenda/day10.html) | [A2 essay and code](assign/assign02.html) | &mdash;
+Oct 4 | <span class="topic-mus"></span> Sample playback | [Lab 7](labs/lab07.html) | [Day 11](agenda/day11.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Oct 6 | <span class="topic-mus"></span> Synthesis, Effects | [Lab 8](labs/lab08.html) | [Day 12](agenda/day12.html) | [A4 draft](assign/assign04.html) | &mdash;
 Oct 11 | <span class="topic-mus"></span> [Music] | &mdash; | [Day 13](agenda/day13.html) | [A1 journal entry](assign/assign01.html) | &mdash;
-Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | &mdash; | &mdash;
+Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | [A4 essay and code](assign/assign04.html) | &mdash;
 Oct 18 | *Fall break, no class*
 Oct 20 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 15](agenda/day15.html) | &mdash; | &mdash;
 Oct 25 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 16](agenda/day16.html) | [A1 journal entry](assign/assign01.html) | &mdash;
