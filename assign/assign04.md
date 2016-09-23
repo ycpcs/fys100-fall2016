@@ -3,6 +3,11 @@ layout: default
 title: "Assignment 4: Music composition"
 ---
 
+Due dates:
+
+* Draft of essay due **Thursday, Oct 6th** by 11:59 PM
+* Final essay and code due **Thursday, Oct 13th** by 11:59 PM
+
 # Learning goals
 
 * Create a music composition using a Processing sketch
