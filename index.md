@@ -7,7 +7,7 @@ title: "Home page"
 
 <div id="subtitle">Creative Computing</div>
 
-Welcome to the FYS 100.139 home page!  All of the information about the course will be posted here.
+Welcome to the FYS 100.128 home page!  All of the information about the course will be posted here.
 
 ## Links
 
