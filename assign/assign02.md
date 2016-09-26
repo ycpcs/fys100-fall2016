@@ -72,7 +72,7 @@ Your essay should address the following topics.
 
 The first version of the essay will be an outline, saved in a document called `EssayOutline`.
 
-The second version of the essay will be a draft, saved in a document called `EssayDraft`.  Make sure the draft follows the structure of the outline, and that you take into account any feedback we give you on the draft.
+The second version of the essay will be a draft, saved in a document called `EssayDraft`.  Make sure the draft follows the structure of the outline, and that you take into account any feedback we give you on the outline.
 
 The final version of the essay should be saved in a document called `EssayFinal`.  Make sure you take into account any feedback we give you on the draft.
 
