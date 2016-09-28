@@ -19,6 +19,7 @@ Welcome to the FYS 100.128 home page!  All of the information about the course w
 
 ## News
 
+* **Sep 28** &mdash; As we mentioned in class on Tuesday, the due date for [Assignment 2](assign/assign02.html) (final essay and code) has been moved to Friday, Sept. 30th by 11:59 PM.
 * **Sep 23** &mdash; [Assignment 4](assign/assign04.html) has been posted.  (See the assignment description for deliverables and due dates.)
 * **Sep 20** &mdash; [Assignment 3](assign/assign03.html) has been posted.  Your task is to attend 5 campus events and write about them in your journal.  See the assignment description for details.
 * **Sep 19** &mdash; The full grading criteria for [Assignment 2](assign/assign02.html) are available.
