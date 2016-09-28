@@ -68,4 +68,20 @@ You will probably want to pick a scale to use in your composition, and use notes
 
 ## Example: Thieves Like Us
 
+[Lab 5](lab05.html) included a small fragment of [New Order](https://en.wikipedia.org/wiki/New_Order_(band))'s [Thieves Like Us](https://www.youtube.com/watch?v=VVQfJ5xCpuY) as an example of percussion and bass.
+
+Here is the code we started from:
+
+> [Thieves.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab05/Thieves.pde)
+
+We'll continue this composition by adding melodic instruments and figures.  Thieves Like Us is a good example of 1980s dance music: 4/4 time signature, lots of syncopation in the rhythm parts, moderate tempo, repetition of simple melodic figures with a good bit of variation as the piece progresses.
+
+Here is a link to the enhanced version:
+
+> [Thieves2.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab06/Thieves2.pde)
+
+Let's analyze what we added.
+
+### Synth \#1
+
 Yeah.
