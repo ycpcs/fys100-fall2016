@@ -60,6 +60,10 @@ class MyComp extends Composer {
     add1(gf(kick3f, snaref));
     add1(gf(kick3f));
     add1(gf(kick3f, snaref));
+    add1(gf(kick3f));
+    add1(gf(kick3f, snaref));
+    add1(gf(kick3f));
+    add1(gf(kick3f, snaref));
 
     add1(gf(kickf, snare2f, hihatf, bassf));
     add1(gf(kick2f, snare3f, hihatf, bass2f));
