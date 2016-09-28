@@ -84,4 +84,172 @@ Let's analyze what we added.
 
 ### Synth \#1
 
-Yeah.
+Our original version had a break of 4 measures with just bass drum and snare.  This is actually supposed to be 8 measures, and it includes an iconic synth lead.
+
+We'll start by creating an instrument, using patch 91 ("Pad 3 (polysynth)") in the `FLUID` soundfont:
+
+{% highlight java %}
+Instrument pad = instr(FLUID, 91); // Pad 3 (polysynth)
+v(pad, 0.8); // make this a bit quieter
+{% endhighlight %}
+
+Synth "pads" generally have a "full" sound, and may sound like multiple instruments.
+
+We define the following rhythm, melodies, and figures:
+
+{% highlight java %}
+Rhythm pad1r = r(s(0, 5), s(5, 1), s(6, .5), s(6.5, 1));
+Melody pad1m = m(0,-2,3,2);
+Figure pad1f = f(pad1r, pad1m, pad);
+
+Melody pad2m = m(1, -1, 0, 1);
+Figure pad2f = f(pad1r, pad2m, pad);
+
+Melody pad3m = m(0, -2, 0, 3);
+Figure pad3f = f(pad1r, pad3m, pad);
+{% endhighlight %}
+
+Notice that there is a single rhythm which is played using three distinct melodies to create three distinct figures.
+
+We incorporate these figures into the break as follows:
+
+{% highlight java %}
+// The famous synth pad line
+add1(gf(kick3f, pad1f));
+add1(gf(kick3f, snaref));
+add1(gf(kick3f, pad2f));
+add1(gf(kick3f, snaref));
+add1(gf(kick3f, pad3f));
+add1(gf(kick3f, snaref));
+add1(gf(kick3f, pad2f));
+add1(gf(kick3f, snaref));
+{% endhighlight %}
+
+### Synth \#2
+
+The second synth part is sort of a staccato background part that comes in behind the pad part.  I used `FLUID` with the Harpsichord patch (7):
+
+{% highlight java %}
+Instrument synth = instr(FLUID, 7); // Harpsichord, with some audio effects (delay+reverb)
+v(synth, 0.15); // this should be fairly quiet
+addfx(synth, new AddDelay(100, 1, .7));
+addfx(synth, new AddDelay(100, 1, .6));
+addfx(synth, new AddReverb());
+{% endhighlight %}
+
+Note that a few audio effects are added to the instrument, specifically delay (echo) and reverb.
+
+Here are the rhythms, melodies, and figures:
+
+{% highlight java %}
+Rhythm synth1r = r(
+  s(0, .25),
+  s(.5, .25), s(.75, .25), s(1, .25),
+  s(1.5, .25), s(1.75, .25), s(2, .25), s(2.25, .25), s(2.75, .25),
+  s(3.5, .25), s(3.75, .5)
+);
+Melody synth1m = m(
+  1,
+  1, 1, 1,
+  1, 1, 1, 2, 1,
+  1, 1
+);
+Figure synth1f = f(synth1r, synth1m, synth);
+
+Rhythm synth2r = r(
+  s(0, .25),
+  s(.5, .25), s(.75, .25), s(1, .25),
+  s(1.5, .25), s(1.75, .25), s(2, .25), s(2.25, .25), s(3.5, .25), s(3.75, .25)
+);
+Melody synth2m = m(
+  1,
+  1, 1, 1,
+  1, 1, 1, 2
+);
+Melody synth3m = m(
+  1,
+  1, 1, 1,
+  1, 1, 1, 2, 2, 2
+);
+Figure synth2f = f(synth2r, synth2m, synth);
+Figure synth3f = f(synth2r, synth3m, synth);
+{% endhighlight %}
+
+These are played in pairs: `synth1f` is followed by either `synth2f` or `synth3f`.  These figures are played along with the existing kick drum, snare, and hihat parts:
+
+{% highlight java %}
+// Add in the hihats, bass, and staccatto "texture" synth part
+add1(gf(kickf, snare2f, hihatf, bassf, pad1f, synth1f));
+add1(gf(kick2f, snare3f, hihatf, bass2f, synth2f));
+add1(gf(kickf, snare2f, hihatf, bassf, pad2f, synth1f));
+add1(gf(kick2f, snare3f, hihatf, bass2f, synth3f));
+add1(gf(kickf, snare2f, hihatf, bassf, pad3f, synth1f));
+add1(gf(kick2f, snare3f, hihatf, bass2f, synth2f));
+add1(gf(kickf, snare2f, hihatf, bassf, pad2f, synth1f));
+add1(gf(kick2f, snare3f, hihatf, bass2f, synth3f));
+{% endhighlight %}
+
+### Fifths lead and guitar!
+
+After the synth parts, there are 8 measures where a "fifths" lead alternates with distorted guitar chords.
+
+Instruments:
+
+{% highlight java %}
+Instrument fifths = instr(FLUID, 87); // Lead 7 (fifths)
+v(fifths, 0.5); // make this quieter
+
+Instrument guitar = instr(FLUID, 30); // overdriven guitar
+v(guitar, 0.4);
+{% endhighlight %}
+
+Rhythms, melodies, and figures:
+
+{% highlight java %}
+Rhythm fifthsr = r(
+  s(0, .5), s(.5, 1), s(1.5, 1), s(2.5, 1),
+  s(4.0, .5), s(4.5, 1), s(5.5, 1), s(6.5, 1)
+);
+Melody fifthsm = m(3, 7, 8, 9, 3, 9, 8, 7);
+Figure fifthsf = f(fifthsr, fifthsm, fifths);
+
+Rhythm guitar1r = r(s(-.5,.5), s(0, .8), s(1, .8));
+Melody guitar1m = m(n(-11, -14), n(-10, -13), n(-10, -13));
+Figure guitar1f = f(guitar1r, guitar1m, guitar);
+
+Rhythm guitar2r = r(s(-.5,.5), s(0, .5), s(.5, .5), s(1, .5));
+Melody guitar2m = m(n(-10, -13), n(-10, -13), n(-11, -14), n(-10, -13));
+Figure guitar2f = f(guitar2r, guitar2m, guitar);
+{% endhighlight %}
+
+Note that the start beat in the guitar rhythms is negative &mdash; the guitar figures start early (just at the end of the previous measure.)
+
+These figures are played with the original kick drum patterns, a new snare pattern, and the original bass pattern:
+
+{% highlight java %}
+// Fifths lead
+add1(gf(kickf, snare2f, hihatf, bassf, fifthsf));
+add1(gf(kick2f, snare3f, hihatf, bass2f));
+
+// Guitar
+add1(gf(kickf, snare2f, hihatf, guitar1f));
+add1(gf(kickf, snare2f, hihatf, guitar2f));
+
+// Fifths lead
+add1(gf(kickf, snare2f, hihatf, bassf, fifthsf));
+add1(gf(kick2f, snare3f, hihatf, bass2f));
+
+// Guitar
+add1(gf(kickf, snare2f, hihatf, guitar1f));
+add1(gf(kickf, snare2f, hihatf, guitar2f));
+{% endhighlight %}
+
+### Putting it all together
+
+It sounds like this:
+
+> Yeah!
+
+# Your turn
+
+Foobar.
