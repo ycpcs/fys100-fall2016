@@ -248,8 +248,10 @@ add1(gf(kickf, snare2f, hihatf, guitar2f));
 
 It sounds like this:
 
-> Yeah!
+> <iframe width="600" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/285136250&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 # Your turn
 
-Foobar.
+Add some melodic parts to the composition you started in [Lab 5](lab05.html).
+
+Suggestion: once you have rhythm and bass parts you are satisified with, try adding a synth pad to your composition.
