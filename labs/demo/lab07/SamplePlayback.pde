@@ -2,46 +2,15 @@ import io.github.daveho.funwithsound.*;
 import net.beadsproject.beads.core.*;
 import net.beadsproject.beads.data.*;
 
-// You may need to change this, depending on which drive letter
-// is assigned to your USB flash drive.
-final String SOUNDFONT_DIR = "D:/SoundFonts";
+// Where the soundfonts are located.
+String SOUNDFONT_DIR = "C:/SoundFonts";
 
-// As above
-final String SAMPLE_DIR = "D:/Samples";
+// Where the samples are located
+final String SAMPLE_DIR = "H:/Samples";
 
 // Some good percussion soundfonts
-final String TR808 = SOUNDFONT_DIR + "/tr808/Roland_TR-808_batteria_elettronica.sf2";
-final String TR909 = SOUNDFONT_DIR + "/tr909/Roland_TR-909_batteria_elettronica.sf2";
-final String ARACHNO = SOUNDFONT_DIR + "/arachno/Arachno SoundFont - Version 1.0.sf2";
-final String M1 = SOUNDFONT_DIR + "/m1/HS M1 Drums.sf2";
-final String VDW = SOUNDFONT_DIR + "/hammersound/Vintage Dreams Waves v2.sf2";
-final String MUSYNG = SOUNDFONT_DIR + "/musyng/Musyng Kite.sf2";
-final String HS_PT1 = SOUNDFONT_DIR + "/hammersound/HS Pads and Textures I.sf2";
-final String FLUID = SOUNDFONT_DIR + "/fluid/FluidR3 GM2-2.SF2";
-
-class MyFWS extends FunWithSound {
-  MyFWS(PApplet parent) {
-    super(parent);
-  }
-  
-  protected Player createPlayer() {
-    Player player = super.createPlayer();
-    registerCustomInstruments(player);
-    return player;
-  }
-
-  public void saveWaveFile(MyComp c, String fileName) {
-    Player player = createPlayer();
-    player.setComposition(c.getComposition());
-    try {
-      player.setStartDelayUs(50000L);
-      player.setIdleWaitUs(1000000L);
-      player.saveWaveFile(fileName);
-    } catch (Exception e) {
-      println("Couldn't save wave file: " + e.toString());
-    }
-  }
-}
+String VDW = SOUNDFONT_DIR + "/hammersound/Vintage Dreams Waves v2.sf2";
+String FLUID = SOUNDFONT_DIR + "/fluid/FluidR3 GM2-2.SF2";
 
 MyFWS fws = new MyFWS(this);
 
@@ -135,8 +104,6 @@ class MyComp extends Composer {
     add1(gf(df,hf,bassf,samp3f));
     add1(gf(df,hf));
     add1(gf(df,hf));
-    
-    audition(bass);
   }
 }
 
@@ -157,24 +124,4 @@ void draw() {
 void mouseClicked() {
   fws.play(c);
   //fws.saveWaveFile(c, "/home/dhovemey/drum+bass+knowtherules.wav");
-}
-
-void registerCustomInstruments(Player player) {
-  CustomInstrumentFactory factory = new CustomInstrumentFactoryImpl(
-    0, new CustomInstrumentFactoryImpl.CreateCustomInstrument() {
-      public RealizedInstrument create(AudioContext ac) {
-        DataBead params = Defaults.monosynthDefaults();
-        params.put(ParamNames.GLIDE_TIME_MS, 80.0f);
-        SynthToolkit tk = SynthToolkitBuilder.start()
-          .withWaveVoice(Buffer.SAW)
-          .withASRNoteEnvelope()
-          .getTk();
-        MonoSynthUGen2 u = new MonoSynthUGen2(ac, tk, params,
-          new double[]{ 1.0, 1.5, 2.0 },
-          new double[]{ 1.0, .5, .4 }
-          );
-        return new RealizedInstrument(u, ac);
-      }
-    });
-  player.setCustomInstrumentFactory(factory);
 }
