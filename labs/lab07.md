@@ -28,7 +28,7 @@ Samples &mdash; prerecorded audio clips taken from other sources &mdash; are a s
 
 To incorporate samples into your composition, you just need to use a sample player instrument, created using the `samplePlayer` method.  Then, add samples to the sample player instrument.  Each sample is associated with a note number.  Unlike melodic instruments, where the note number indicates pitch, and percussion instruments, where the note number selects a percussion sound, notes for sample player instruments simply indicate what sample to play.
 
-Let's start with a very simple percussion and bass composition.  Here is some code (to put in the program's `create` method) to create some simple drum and bass parts:
+Let's start with a very simple percussion and bass composition.  Here is some code (to put in the sketch's `create` method) to create some simple drum and bass parts:
 
 {% highlight java %}
 // Set up a percussion instruments for building a rhythm pattern
@@ -81,7 +81,7 @@ You can download this clip from the following link:
 
 Note that you will need to be logged into your YCP account to access this download.
 
-I saved this clip in a folder called `Samples` in the same place as my `SoundFonts` folder.  My program defines a `SAMPLE_DIR` variable that serves the same purpose as the `SOUNDFONT_DIR` variable, to locate files (in this case samples) needed to play the composition:
+I saved this clip in a folder called `Samples` in the same place as my `SoundFonts` folder.  My sketch defines a `SAMPLE_DIR` variable that serves the same purpose as the `SOUNDFONT_DIR` variable, to locate files (in this case samples) needed to play the composition:
 
 {% highlight java %}
 final String SAMPLE_DIR = "H:/Samples";
@@ -173,6 +173,6 @@ Putting it all together, here is the overall composition:
 
 > <iframe width="600" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228419116&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Here is the complete code for the program:
+Here is the complete code for the sketch:
 
 > [SamplePlayback.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/demo/lab07/SamplePlayback.pde)
