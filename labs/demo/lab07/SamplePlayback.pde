@@ -6,13 +6,13 @@ import net.beadsproject.beads.data.*;
 String SOUNDFONT_DIR = "C:/SoundFonts";
 
 // Where the samples are located
-final String SAMPLE_DIR = "H:/Samples";
+String SAMPLE_DIR = "H:/Samples";
 
 // Some good percussion soundfonts
 String VDW = SOUNDFONT_DIR + "/hammersound/Vintage Dreams Waves v2.sf2";
 String FLUID = SOUNDFONT_DIR + "/fluid/FluidR3 GM2-2.SF2";
 
-MyFWS fws = new MyFWS(this);
+FunWithSound fws = new FunWithSound(this);
 
 class MyComp extends Composer {
   void create() {
