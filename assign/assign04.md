@@ -40,7 +40,7 @@ class MyComp extends Composer {
 
     // Create rhythms, melodies, and figures
     Rhythm kickr = r(p(0), p(1), p(2), p(3));
-    Figure kickf = f(kickr, 36, drumkit);
+    Figure kickf = pf(kickr, 36, drumkit);
 
     // Schedule figures to be played
     add1(gf(kickf));
