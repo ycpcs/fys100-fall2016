@@ -11,7 +11,7 @@ FunWithSound fws = new FunWithSound(this) {
 };
 
 // Directory where you keep your soundfonts
-String SOUNDFONTS = "/home/dhovemey/SoundFonts";
+String SOUNDFONTS = "C:/SoundFonts";
 
 String TR808 = SOUNDFONTS + "/tr808/Roland_TR-808_batteria_elettronica.sf2";
 String FLUID = SOUNDFONTS + "/fluid/FluidR3 GM2-2.SF2";
@@ -25,7 +25,7 @@ class MyComp extends Composer {
     Instrument drumkit = percussion(TR808);
     
     // Custom monosynth instrument
-    Instrument synth = custom(0);
+    Instrument synth = custom(0); // <-- change this to select among the custom instruments
     v(synth, 0.5); // the custom instruments are very loud 
 
     // Create rhythms, melodies, and figures
