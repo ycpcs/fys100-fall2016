@@ -26,7 +26,7 @@ class MyComp extends Composer {
     
     // Custom monosynth instrument
     Instrument synth = custom(0); // <-- change this to select among the custom instruments
-    v(synth, 0.5); // the custom instruments are very loud 
+    v(synth, 0.2); // the custom instruments are very loud 
 
     // Create rhythms, melodies, and figures
     Rhythm metr = r(p(0), p(1), p(2), p(3));
