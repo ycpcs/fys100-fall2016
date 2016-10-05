@@ -10,18 +10,33 @@ String FLUID = SOUNDFONTS + "/fluid/FluidR3 GM2-2.SF2";
 
 class MyComp extends Composer {
   void create() {
-    tempo(110, 4);
+    //create a tempo at 110 beats per minute; play 4 beats per measure
+    tempo(110, 4); 
+
+    //select the major key (C4)
+    //use the web page below to select a new MIDI note number
+    //https://newt.phys.unsw.edu.au/jw/notes.html
     major(60);
 
+    //create a percussive instruction called drumkit; use the TR808 soundfile
     Instrument drumkit = percussion(TR808); // Roland TR-808 sounds
+    
+    //create a melodic instruction called bass. Use instrument #36
+    //from the FLUID sound file. Select other sounds using the MIDI
+    //sound set at https://www.midi.org/specifications/item/gm-level-1-sound-set
     Instrument bass = instr(FLUID, 36); // fretless bass
     v(bass, 0.5); // make the bass a bit quieter
     
+    //create a rhythm called kickr to play on beats 0, 1, 2, and 3
     Rhythm kickr = r(p(0), p(1), p(2), p(3));
+
+    //assign kickr to be played with instrument 36 from the
+    //drumkit sound set. New instruments can be selected from
+    //the pecursive sound set https://www.midi.org/specifications/item/gm-level-1-sound-set
     Figure kickf = pf(kickr, 36, drumkit);
     
-    add1(gf(kickf));
-    add1(gf(kickf));
+    add1(gf(kickf)); //schedule kickf to play on measure 1
+    add1(gf(kickf)); //schedule kickf to play on measure 2
   }
 }
 
