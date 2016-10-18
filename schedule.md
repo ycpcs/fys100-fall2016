@@ -41,7 +41,7 @@ Oct 6 | <span class="topic-mus"></span> Synthesis, Effects | [Lab 8](labs/lab08.
 Oct 11 | <span class="topic-mus"></span> Computers and music  | Discussion | [Day 13](agenda/day13.html) | [A1 journal entry](assign/assign01.html) | [IAMUSDocumentary](https://www.youtube.com/watch?v=ETGDbWvWCbM), [Guardian1Jul12](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), and [0musicPlaylist](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
 Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | [A4 essay and code](assign/assign04.html) | &mdash;
 Oct 18 | *Fall break, no class*
-Oct 20 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 15](agenda/day15.html) | &mdash; | &mdash;
+Oct 20 | <span class="topic-hum"></span> Digital humanities | [Lab 9](labs/lab09.html) | [Day 15](agenda/day15.html) | &mdash; | [NYTArts17Nov10](http://www.nytimes.com/2010/11/17/arts/17digital.html)
 Oct 25 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 16](agenda/day16.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Oct 27 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 17](agenda/day17.html) | &mdash; | &mdash;
 Nov 1 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
@@ -67,9 +67,9 @@ Readings/Videos/Media:
 * IAMUSDocumentary: [IAMUS / MELOMICS documentary](https://www.youtube.com/watch?v=ETGDbWvWCbM)
 * Guardian1Jul12: [Iamus, classical music's computer composer, live from Malaga](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), Philip Ball, in The Guardian, July 1st, 2012
 * 0musicPlaylist: [0music](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
+* NYTArts17Nov10: [Digital Keys for Unlocking the Humanities’ Riches](http://www.nytimes.com/2010/11/17/arts/17digital.html), New York Times, Nov 17th, 2010
 
 <!--
-* NYTArts17Nov10: [Digital Keys for Unlocking the Humanities’ Riches](http://www.nytimes.com/2010/11/17/arts/17digital.html), New York Times, Nov 17th, 2010
 * MichelAidenTEDJul2011: [What we learned from 5 million books](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en#t-512521), TEDxBoston 2011
 * GenNext: [Gen Next at York College](http://www.ycp.edu/academics/gen-next/)
 * MakerMovement: [The Maker Movement](http://www.mitpressjournals.org/doi/pdf/10.1162/INOV_a_00135), Dale Dougherty, Innovations, Volume 7, Number 3, Summer 2012
