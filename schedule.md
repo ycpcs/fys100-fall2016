@@ -44,10 +44,10 @@ Oct 18 | *Fall break, no class*
 Oct 20 | <span class="topic-hum"></span> Digital humanities | [Lab 9](labs/lab09.html) | [Day 15](agenda/day15.html) | &mdash; | [NYTArts17Nov10](http://www.nytimes.com/2010/11/17/arts/17digital.html)
 Oct 25 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 16](agenda/day16.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Oct 27 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 17](agenda/day17.html) | &mdash; | &mdash;
-Nov 1 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
-Nov 3 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 19](agenda/day19.html) | &mdash; | &mdash;
+Nov 1 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Nov 3 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 19](agenda/day19.html) | &mdash; | &mdash;
 Nov 8 | <span class="topic-sc"></span> Ready, Set, Registration! | &mdash; | [Day 20](agenda/day20.html) | [A1 journal entry](assign/assign01.html) | &mdash;
-Nov 10 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 21](agenda/day21.html) | &mdash; | &mdash;
+Nov 10 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 21](agenda/day21.html) | &mdash; | &mdash;
 Nov 15 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 22](agenda/day22.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Nov 17 | <span class="topic-sc"></span> GenNext | &mdash; | [Day 23](agenda/day23.html) | &mdash; | &mdash;
 Nov 22 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 24](agenda/day24.html) | [A1 journal entry](assign/assign01.html) | &mdash;
