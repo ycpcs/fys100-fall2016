@@ -18,7 +18,7 @@ Then, create and test a hypothesis as described in the *Experiment* section.  Ma
 
 Copy and paste the following code into an empty Processing sketch:
 
-> [TextMiner.pde](https://github.com/ycpcs/fys100-fall2015/blob/gh-pages/examples/TextMiner.pde)
+> [TextMiner.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/TextMiner.pde)
 
 Run the program.  You should see the following window (click for full size):
 
