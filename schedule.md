@@ -42,7 +42,7 @@ Oct 11 | <span class="topic-mus"></span> Computers and music  | Discussion | [Da
 Oct 13 | <span class="topic-sc"></span> What Do You Know? | Meet in Weinstock | [Day 14](agenda/day14.html) | [A4 essay and code](assign/assign04.html) | &mdash;
 Oct 18 | *Fall break, no class*
 Oct 20 | <span class="topic-hum"></span> Digital humanities | [Lab 9](labs/lab09.html) | [Day 15](agenda/day15.html) | &mdash; | [NYTArts17Nov10](http://www.nytimes.com/2010/11/17/arts/17digital.html)
-Oct 25 | <span class="topic-hum"></span> [Humanities] | &mdash; | [Day 16](agenda/day16.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Oct 25 | <span class="topic-hum"></span> NGrams | [Lab 10](labs/lab10.html) | [Day 16](agenda/day16.html) | [A1 journal entry](assign/assign01.html) | [MichelAidenTEDJul2011](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en#t-512521)
 Oct 27 | <span class="topic-sci"></span> [Science] | &mdash; | [Day 17](agenda/day17.html) | &mdash; | &mdash;
 Nov 1 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Nov 3 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 19](agenda/day19.html) | &mdash; | &mdash;
@@ -68,9 +68,9 @@ Readings/Videos/Media:
 * Guardian1Jul12: [Iamus, classical music's computer composer, live from Malaga](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), Philip Ball, in The Guardian, July 1st, 2012
 * 0musicPlaylist: [0music](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
 * NYTArts17Nov10: [Digital Keys for Unlocking the Humanities’ Riches](http://www.nytimes.com/2010/11/17/arts/17digital.html), New York Times, Nov 17th, 2010
+* MichelAidenTEDJul2011: [What we learned from 5 million books](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en#t-512521), TEDxBoston 2011
 
 <!--
-* MichelAidenTEDJul2011: [What we learned from 5 million books](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en#t-512521), TEDxBoston 2011
 * GenNext: [Gen Next at York College](http://www.ycp.edu/academics/gen-next/)
 * MakerMovement: [The Maker Movement](http://www.mitpressjournals.org/doi/pdf/10.1162/INOV_a_00135), Dale Dougherty, Innovations, Volume 7, Number 3, Summer 2012
 * DIYRevolution: [The 'maker movement' creates D.I.Y. revolution](http://www.csmonitor.com/Technology/2014/0706/The-maker-movement-creates-D.I.Y.-revolution), Noelle Swan, The Christian Science Monitor, July 6, 2014
