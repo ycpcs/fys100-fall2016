@@ -301,12 +301,11 @@ void simulate() {
 }
 
 void simulateZombie(int i) {
+  // Check whether any victims are within agression radius
   CloseToHealthyPerson pred = new CloseToHealthyPerson(persons[i]);
   Person[] victims = take(i, pred);
   
   Point next;
-  
-  // Check whether any victims are within agression radius
   if (victims.length > 0) {
     // pursue!
     Point[] randMoves = computeRandomMoves(i, ZOMBIE_MOVE_DIST);
@@ -353,19 +352,12 @@ void simulatePerson(int i) {
   }
   persons[i].moveTo(next);
   
-/*  if (persons[i].sick) {
-    // Check for spontaneous recovery
-    if (random(1) < RECOVERY) {
-      persons[i].sick = false;
-    }
-  } else {*/
-    // Check for spontaneous sickness
-    // or infection spread from a sick person
-    if (random(1) < SPONTANEOUS_INFECT) {
-      persons[i].sick = true;
-    } else if (pred.getMinDist() < INFECT_RADIUS && random(1) < INFECT) {
-      persons[i].sick = true;
-/*    }*/
+  // Check for spontaneous sickness
+  // or infection spread from a sick person
+  if (random(1) < SPONTANEOUS_INFECT) {
+    persons[i].sick = true;
+  } else if (pred.getMinDist() < INFECT_RADIUS && random(1) < INFECT) {
+    persons[i].sick = true;
   }
 }
 
