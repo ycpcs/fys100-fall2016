@@ -19,6 +19,7 @@ Welcome to the FYS 100.128 home page!  All of the information about the course w
 
 ## News
 
+* **Nov 1** &mdash; [Assignment 5](assign/assign05.html) has been posted; see the assignment description for deliverables and due dates.
 * **Oct 27** &mdash; In honor of Halloween, here is a variation of the [Lab 11](labs/lab11.html) sketch in which the infected indivduals ("zombies") pursue the healthy indivuduals: [Zombies.pde](https://github.com/ycpcs/fys100-fall2016/blob/gh-pages/labs/Zombies.pde).
 * **Sep 28** &mdash; As we mentioned in class on Tuesday, the due date for [Assignment 2](assign/assign02.html) (final essay and code) has been moved to Friday, Sept. 30th by 11:59 PM.
 * **Sep 23** &mdash; [Assignment 4](assign/assign04.html) has been posted.  (See the assignment description for deliverables and due dates.)

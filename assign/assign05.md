@@ -3,17 +3,17 @@ layout: default
 title: "Assignment 5: Computers and Creativity"
 ---
 
-*Preliminary, not official yet*
-
 # Due dates
 
-Annotated bibliography: due Tuesday, Nov 8th by 11:59 PM
+**Annotated bibliography**: due Tuesday, Nov 8th by 11:59 PM
 
-Outline: due Tuesday, Nov 15th by 11:59 PM
+**Outline**: due Tuesday, Nov 15th by 11:59 PM
 
-Draft: due Tuesday, Nov 22nd by 11:59 PM
+**Draft**: due Tuesday, Nov 22nd by 11:59 PM
 
-Final essay: due Tuesday, Dec 6th by 11:59 PM
+**Peer evaluations**: due Friday, Dec 2nd by 11:59 PM
+
+**Final essay**: due Friday, Dec 9th by 11:59 PM
 
 # Learning goals
 
@@ -36,7 +36,7 @@ This deliverable should be a document called `Annotated bibliography`.
 
 You annotated bibliography is a list of sources you will use as evidence in making your argument.
 
-We suggest that you start with the MELOMICS project sources (see the [Schedule](../schedule.html).
+We suggest that you start with the MELOMICS project sources (see the [Schedule](../schedule.html)).
 
 In addition, you must find at least *one* information source beyond the MELOMICS sources.
 
@@ -52,11 +52,26 @@ The outline should indicate how your essay will be organized, and should briefly
 
 This deliverable should be a document called `Essay draft`.
 
-The draft should substantially address the expectations of the essay (see below.)
+The draft should substantially address the expectations of the final essay (see below.)
+
+## Peer evaluations
+
+You will be responsible for providing feedback on two other essay drafts.
+
+The main goal of your feedback is to provide some specific ideas for what the essay does well and how it might be improved.  For example:
+
+* What are the strengths of the essay?  Be sure to state at least one thing that you like about the essay.
+* Does the essay have a clear thesis?
+* Is the argument made to support the thesis convincing?
+* Is evidence presented to support the thesis, and is it convincing?
+* Are sources cited appropriately?
+* Is the writing quality clear?
 
 ## Essay
 
-Your task is to write an essay arguing one of the following positions:
+The essay should be in a document called `Final essay`.
+
+Your essay should argue for one of the following positions:
 
 * Computers will never be able to compose music as well as human beings
 * Computers cannot currently compose music as well as human beings, but someday they will
@@ -66,12 +81,33 @@ Cite specific evidence supporting your position.  I would encourage you to use t
 
 Your essay must use [MLA format](https://www.library.cornell.edu/research/citation/mla) for sources.  Use citations as appropriate in your text when you refer to evidence in the sources you are using to support your argument.  Make sure that you have a list of works cited at the end of your essay.
 
-Your essay should be *at least* two pages, not including the list of works cited.
+Your essay should be *at least* three pages, not including the list of works cited.
 
-Create your essay draft and final version as documents in your shared Google Drive folder.  The documents should be called **Writing Assignment 2 (draft)** and **Writing Assignment 2 (final)**, respectively.
+# Grading criteria
 
-# Grading 
+Annotated bibliography: up to 6 points.  Make sure you have at least one source other than the MELOMICS sources.
 
+Essay outline: up to 6 points.
+
+Essay draft: up to 12 points.
+
+Final essay: up to 76 points, broken down as follows:
+
+* Introduction and thesis statement, 8 points
+* Development of argument, 24 points
+* Using appropriate evidence, 24 points
+* Citing sources, 12 points
+* Conclusion, 8 points
+
+Points may be deducted for poor organization and/or writing quality.  Please read our [Effective Writing](../outcomes/writing.html) document for more information about our expectations for your writing.
+
+# Submitting
+
+Make sure your `Annotated bibliography`, `Essay outline`, `Essay draft`, and `Final essay` documents are in your `Assignment 5` folder as described above.
+
+We will provide information about how to submit the peer evaluations as we get closer to the drafts being due.
+
+<!--
 Your essay will be graded as follows:
 
 * Stating your position: up to 15 points
@@ -79,6 +115,7 @@ Your essay will be graded as follows:
 * Citing appropriate evidence (including at least one additional source): up to 15 points
 * Conclusions: up to 15 points
 * List of works cited: up to 15 points
+-->
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
