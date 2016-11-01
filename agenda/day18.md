@@ -5,7 +5,8 @@ title: "Day 18 agenda"
 
 # Agenda
 
-Coming soon!
+Download  [ScratchFirmware](http://ycpcs.github.io/fys100-fall2016/labs/S4AFirmware16.zip).
+
 
 ## Get ready
 
