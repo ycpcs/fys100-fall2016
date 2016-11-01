@@ -5,7 +5,8 @@ title: "Day 18 agenda"
 
 # Agenda
 
-Coming soon!
+Download  [Physical Computing Archive](../labs/PhysicalComputing.zip).
+
 
 ## Get ready
 

@@ -11,7 +11,7 @@ Please read/view/listen to the following:
 
 * [Iamus, classical music's computer composer, live from Málaga](http://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music), Philip Ball, in The Guardian, July 1st, 2012 (newpaper article)
 * [IAMUS / MELOMICS documentary](https://www.youtube.com/watch?v=ETGDbWvWCbM) (documentary film)
-* [0music](https://www.youtube.com/watch?v=SxvV5zn7e9s) (album of computer-generated music): also available at the [0music Wikipedia page](https://en.wikipedia.org/wiki/0music) which has download links
+* [0music](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2) (album of computer-generated music): also available at the [0music Wikipedia page](https://en.wikipedia.org/wiki/0music) which has download links
 
 Each of these sources concerns the [Melomics](http://geb.uma.es/melomics/melomics.html) project at the University of Málaga.
 
