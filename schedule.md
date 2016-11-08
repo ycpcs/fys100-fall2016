@@ -44,9 +44,9 @@ Oct 18 | *Fall break, no class*
 Oct 20 | <span class="topic-hum"></span> Digital humanities | [Lab 9](labs/lab09.html) | [Day 15](agenda/day15.html) | &mdash; | [NYTArts17Nov10](http://www.nytimes.com/2010/11/17/arts/17digital.html)
 Oct 25 | <span class="topic-hum"></span> NGrams | [Lab 10](labs/lab10.html) | [Day 16](agenda/day16.html) | [A1 journal entry](assign/assign01.html) | [MichelAidenTEDJul2011](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en#t-512521)
 Oct 27 | <span class="topic-sci"></span> Simulation | [Lab 11](labs/lab11.html) | [Day 17](agenda/day17.html) | &mdash; | &mdash;
-Nov 1 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
-Nov 3 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 19](agenda/day19.html) | &mdash; | &mdash;
-Nov 8 | <span class="topic-sc"></span> Ready, Set, Registration! | &mdash; | [Day 20](agenda/day20.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Nov 1 | <span class="topic-phy"></span> Physical Computing with Scratch - Day 1 | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Nov 3 | <span class="topic-phy"></span> Physical Computing with Scratch - Day 2 | &mdash; | [Day 19](agenda/day19.html) | &mdash; | &mdash;
+Nov 8 | <span class="topic-sc"></span> Ready, Set, Registration! and Scratch Contiuned| &mdash; | [Day 20](agenda/day20.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Nov 10 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 21](agenda/day21.html) | &mdash; | &mdash;
 Nov 15 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 22](agenda/day22.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Nov 17 | <span class="topic-sc"></span> GenNext | &mdash; | [Day 23](agenda/day23.html) | &mdash; | &mdash;
