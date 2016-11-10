@@ -5,7 +5,7 @@ title: "Day 21 agenda"
 
 # Agenda
 
-Coming soon!
+Download  [Connecting Physical Sensors](../labs/ConnectingSensors.pdf).
 
 ## Get ready
 
