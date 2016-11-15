@@ -35,9 +35,9 @@ As part of Assignment 6, please provide a short proposal for your final creative
 For this initial assignment, create a proposal such that Dr. Hovermeyer and myself can evaluate whether the project is feasible within the class. We will then review your proposal and provide feedback. 
 
 In the proposal: 
-  * describe the project vision, including its interactions, responses, data sources...etc
-  * the equipment you believe you will need
-  * the 2-3 members of the team. 
+* describe the project vision, including its interactions, responses, data sources...etc
+* the equipment you believe you will need
+* the 2-3 members of the team. 
   
 Submit this information as a 2-3 paragraph document covering these items to Google Drive by 11:59 pm on Thursday, November 17th. Note: it is possible that we can purchase additional hardware for your projects ($20-30/team). 
 
