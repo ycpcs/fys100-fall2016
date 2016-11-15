@@ -9,4 +9,4 @@ In the previous lab we have examined how to connect various sensors to the Ardui
 
 ## Get ready
 
-Download the []Lab 12 PDF](Lab12.pdf) from Github.
+Download the [Lab 12 PDF](Lab12.pdf) from Github.
