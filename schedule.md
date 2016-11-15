@@ -47,14 +47,14 @@ Oct 27 | <span class="topic-sci"></span> Simulation | [Lab 11](labs/lab11.html) 
 Nov 1 | <span class="topic-phy"></span> Physical Computing with Scratch - Day 1 | &mdash; | [Day 18](agenda/day18.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Nov 3 | <span class="topic-phy"></span> Physical Computing with Scratch - Day 2 | &mdash; | [Day 19](agenda/day19.html) | &mdash; | &mdash;
 Nov 8 | <span class="topic-sc"></span> Ready, Set, Registration! and Scratch Contiuned| &mdash; | [Day 20](agenda/day20.html) | [A1 journal entry](assign/assign01.html)<br>[A5 bibliography](assign/assign05.html) | &mdash;
-Nov 10 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 21](agenda/day21.html) | &mdash; | &mdash;
-Nov 15 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 22](agenda/day22.html) | [A1 journal entry](assign/assign01.html)<br>[A5 outline](assign/assign05.html) | &mdash;
+Nov 10 | <span class="topic-phy"></span> Play date and exploration with Scratch | &mdash; | [Day 21](agenda/day21.html) | &mdash; | &mdash;
+Nov 15 | <span class="topic-phy"></span> Connecting Arduino and Processing | &mdash; | [Day 22](agenda/day22.html) | [A1 journal entry](assign/assign01.html)<br>[A5 outline](assign/assign05.html) | &mdash;
 Nov 17 | <span class="topic-sc"></span> GenNext | &mdash; | [Day 23](agenda/day23.html) | &mdash; | &mdash;
-Nov 22 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 24](agenda/day24.html) | [A1 journal entry](assign/assign01.html)<br>[A5 draft](assign/assign05.html) | &mdash;
+Nov 22 | <span class="topic-phy"></span>  Computing Machines that are Finite | &mdash; | [Day 24](agenda/day24.html) | [A1 journal entry](assign/assign01.html)<br>[A5 draft](assign/assign05.html) | &mdash;
 Nov 24 | *Thanksgiving, no class*
-Nov 29 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | [A1 journal entry](assign/assign01.html) | &mdash;
-Dec 1 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 25](agenda/day25.html) | [A5 peer eval](assign/assign05.html) (Friday Dec 2) | &mdash;
-Dec 6 | <span class="topic-phy"></span> [Physical computing] | &mdash; | [Day 26](agenda/day26.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Nov 29 | <span class="topic-phy"></span> Work on Installation | &mdash; | [Day 25](agenda/day25.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Dec 1 | <span class="topic-phy"></span> Work on Installation | &mdash; | [Day 25](agenda/day25.html) | [A5 peer eval](assign/assign05.html) (Friday Dec 2) | &mdash;
+Dec 6 | <span class="topic-phy"></span> Installation Demos and Prototypes | &mdash; | [Day 26](agenda/day26.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Dec 8 | Project demos | &mdash; | [Day 27](agenda/day27.html) | [A5 final essay](assign/assign05.html) (Friday Dec 9) | &mdash;
 Dec 13 | Project demos | &mdash; | [Day 28](agenda/day28.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 
