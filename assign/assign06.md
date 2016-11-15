@@ -35,6 +35,7 @@ As part of Assignment 6, please provide a short proposal for your final creative
 For this initial assignment, create a proposal such that Dr. Hovermeyer and myself can evaluate whether the project is feasible within the class. We will then review your proposal and provide feedback. 
 
 In the proposal: 
+
 * describe the project vision, including its interactions, responses, data sources...etc
 * the equipment you believe you will need
 * the 2-3 members of the team. 
