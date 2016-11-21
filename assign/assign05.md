@@ -9,7 +9,7 @@ title: "Assignment 5: Computers and Creativity"
 
 **Outline**: due Tuesday, Nov 15th by 11:59 PM
 
-**Draft**: due Tuesday, Nov 22nd by 11:59 PM
+**Draft**: due Tuesday, Nov 29th by 11:59 PM
 
 **Peer evaluations**: due Friday, Dec 2nd by 11:59 PM
 
