@@ -7,7 +7,7 @@ title: "Assignment 6: Creative Computing Installation"
 
 **Project Proposal**: due Thursday, Nov 17th by 11:59 PM
 
-**Installation Sketch and Code Outline**: due Tuesday, Nov 28th by 11:59 PM
+**Installation Sketch and Code Outline**: due Tuesday, Nov 29th by 11:59 PM
 
 **Initial Prototype and Demo**: due Tuesday, Dec 6th (in class)
 
