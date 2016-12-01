@@ -3,6 +3,8 @@ layout: default
 title: "Assignment 5: Computers and Creativity"
 ---
 
+*Revised 11/28* &mdash; Updated grading criteria to include peer evaluations
+
 # Due dates
 
 **Annotated bibliography**: due Tuesday, Nov 8th by 11:59 PM
@@ -65,7 +67,7 @@ The main goal of your feedback is to provide some specific ideas for what the es
 * Is the argument made to support the thesis convincing?
 * Is evidence presented to support the thesis, and is it convincing?
 * Are sources cited appropriately?
-* Is the writing quality clear?
+* Is the writing quality good?  Are there sentences or phrases that are confusing?
 
 ## Essay
 
@@ -89,13 +91,15 @@ Annotated bibliography: up to 6 points.  Make sure you have at least one source 
 
 Essay outline: up to 6 points.
 
-Essay draft: up to 12 points.
+Essay draft: up to 8 points.
 
-Final essay: up to 76 points, broken down as follows:
+Peer evaluations: up to 8 points.
 
-* Introduction and thesis statement, 8 points
-* Development of argument, 24 points
-* Using appropriate evidence, 24 points
+Final essay: up to 72 points, broken down as follows:
+
+* Introduction and thesis statement, 12 points
+* Development of argument, 20 points
+* Using appropriate evidence, 20 points
 * Citing sources, 12 points
 * Conclusion, 8 points
 

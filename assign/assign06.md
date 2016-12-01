@@ -11,7 +11,7 @@ title: "Assignment 6: Creative Computing Installation"
 
 **Initial Prototype and Demo**: due Tuesday, Dec 6th (in class)
 
-**Final Presentation and Exhibition**: due Tuesday, Dec 13th (in class)
+**Final Presentation and Exhibition**: 10:15&ndash;12:15, Saturday, Dec 17th (during the scheduled final exam period)
 
 **Technical Report and Reflection**: due Wednesday, Dec 14th by 11:59 PM
 
@@ -55,7 +55,7 @@ Due Dec 6th in class.
 # Final Presentation and Exhibition
 Provide a final demo and presentation to the instructors and your classmates showing your work. 
 
-Due Dec 13th in class.
+10:15&ndash;12:15 on Saturday, Dec 17th (during the scheduled final exam period.)
 
 # Technical Report and Reflection
 Submit a technical report describing your installation's operation and your reflections regarding the process. More specific details TBD.

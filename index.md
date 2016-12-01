@@ -19,6 +19,8 @@ Welcome to the FYS 100.128 home page!  All of the information about the course w
 
 ## News
 
+* **Dec 1** &mdash; The final presentations and demos for [Assignment 6](assign/assign06.html) have been moved to 10:15&ndash;12:15, Saturday, Dec 17th (which is the scheduled final exam period.)
+* **Nov 28** &mdash; The description of [Assignment 5](assign/assign05.html) has been updated to include grading criteria for the peer evaluations.
 * **Nov 21** &mdash; The due date for the draft of [Assignment 5](assign/assign05.html) has been moved to Tuesday, November 29th.
 * **Nov 14** &mdash; [Assignment 6](assign/assign06.html) has been posted; see the assignment description for deliverables and due dates. 
 * **Nov 1** &mdash; [Assignment 5](assign/assign05.html) has been posted; see the assignment description for deliverables and due dates.
