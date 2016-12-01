@@ -45,7 +45,7 @@ Submit this information as a 2-3 paragraph document covering these items to Goog
 # Sketch and Code Outline
 Develop a high-level diagram showing the major components of your project. Include a finite state machine showing how your project responds to different inputs and the outputs it produces. Describe each input in detail (what sensor will provide the information, what specific values for each sensor will trigger a response). Also describe each output for the system (what actuators will be required and what types of responses they will provide).
 
-Due Nov 28th by 11:59pm
+Due Dec 1st by 11:59pm
 
 # Initial Prototype and Demo
 Provide an initial demo of your installation to the course instructors in class. Use this feedback to make any adjustments needed for your final installation.
