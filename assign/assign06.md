@@ -43,7 +43,7 @@ In the proposal:
 Submit this information as a 2-3 paragraph document covering these items to Google Drive by 11:59 pm on Thursday, November 17th. Note: it is possible that we can purchase additional hardware for your projects ($20-30/team). 
 
 # Sketch and Code Outline
-Develop a high-level diagram showing the major components of your project and some initial sketches regarding the code that will be created.
+Develop a high-level diagram showing the major components of your project. Include a finite state machine showing how your project responds to different inputs and the outputs it produces. Describe each input in detail (what sensor will provide the information, what specific values for each sensor will trigger a response). Also describe each output for the system (what actuators will be required and what types of responses they will provide).
 
 Due Nov 28th by 11:59pm
 
