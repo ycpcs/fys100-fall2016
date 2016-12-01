@@ -54,9 +54,9 @@ Nov 22 | <span class="topic-phy"></span>  Computing Machines that are Finite | &
 Nov 24 | *Thanksgiving, no class*
 Nov 29 | <span class="topic-phy"></span> Work on Installation | &mdash; | [Day 25](agenda/day25.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Dec 1 | <span class="topic-phy"></span> Work on Installation | &mdash; | [Day 25](agenda/day25.html) | [A5 peer eval](assign/assign05.html) (Friday Dec 2) | &mdash;
-Dec 6 | <span class="topic-phy"></span> Installation Demos and Prototypes | &mdash; | [Day 26](agenda/day26.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Dec 6 | <span class="topic-phy"></span> Work on Installation | &mdash; | [Day 26](agenda/day26.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 Dec 8 | <span class="topic-phy"></span> Work on Installation | &mdash; | [Day 27](agenda/day27.html) | [A5 final essay](assign/assign05.html) (Friday Dec 9) | &mdash;
-Dec 13 | <span class="topic-phy"></span> Work on Installation | &mdash; | [Day 28](agenda/day28.html) | [A1 journal entry](assign/assign01.html) | &mdash;
+Dec 13 | <span class="topic-phy"></span> Installation Demos and Prototypes  | &mdash; | [Day 28](agenda/day28.html) | [A1 journal entry](assign/assign01.html) | &mdash;
 
 Readings/Videos/Media:
 

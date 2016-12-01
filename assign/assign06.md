@@ -9,7 +9,7 @@ title: "Assignment 6: Creative Computing Installation"
 
 **Installation Sketch and Code Outline**: due Tuesday, Nov 29th by 11:59 PM
 
-**Initial Prototype and Demo**: due Tuesday, Dec 6th (in class)
+**Initial Prototype and Demo**: due Tuesday, Dec 13th (in class)
 
 **Final Presentation and Exhibition**: 10:15&ndash;12:15, Saturday, Dec 17th (during the scheduled final exam period)
 
@@ -48,9 +48,9 @@ Develop a high-level diagram showing the major components of your project and so
 Due Nov 28th by 11:59pm
 
 # Initial Prototype and Demo
-Provide an initial demo of your installation to the course instructors in class. Use this feedback to iterate for your final installation.
+Provide an initial demo of your installation to the course instructors in class. Use this feedback to make any adjustments needed for your final installation.
 
-Due Dec 6th in class.
+Due Dec 13th in class.
 
 # Final Presentation and Exhibition
 Provide a final demo and presentation to the instructors and your classmates showing your work. 
