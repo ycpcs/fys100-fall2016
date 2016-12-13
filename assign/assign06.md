@@ -60,7 +60,7 @@ Provide a final demo and presentation to the instructors and your classmates sho
 # Technical Report and Reflection
 Submit a technical report describing your installation's operation and your reflections regarding the process. Write at least a one page report outlining: (a) The vision for your project. What was inspiration for your installation? What were you trying to achieve? (b) How well do you believe you realized that vision? What challenges did you overcome? What elements of the installation are you most proud? (c) Reflect on what skill sets did you use from this course to create the installation. In planning for future courses, what elements could the instructors focus on? What elements could use less emphasis?
 
-Due Dec 14th at 11:59pm.
+Due Dec 16th at 5:00pm.
 
 
 # Grading criteria
