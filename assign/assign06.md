@@ -13,7 +13,7 @@ title: "Assignment 6: Creative Computing Installation"
 
 **Final Presentation and Exhibition**: 10:15&ndash;12:15, Saturday, Dec 17th (during the scheduled final exam period)
 
-**Technical Report and Reflection**: due Wednesday, Dec 14th by 11:59 PM
+**Technical Report and Reflection**: due Friday, Dec 16th by 5:00 PM
 
 # Learning goals
 
